@@ -24,7 +24,6 @@ Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervise
 # 📝 Publications 
 
 - **Linwei Tao**, Minjing Dong, Chang Xu. “Dual Focal Loss for Calibration”, In Proceedings of the 40th International Conference on Machine Learning **(ICML, 2023)**.
-<strong style="color:gray">(CCF A, Core A\*)</strong>
 [[Paper]](https://arxiv.org/abs/2305.13665)
 [[Code]](https://github.com/Linwei94/DualFocalLoss)
 
