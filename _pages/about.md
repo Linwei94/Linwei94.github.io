@@ -37,17 +37,16 @@ Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervise
 [[Paper]](https://arxiv.org/abs/2308.11838)
 [[Code]](https://github.com/Linwei94/CalibrationDataset)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.09 - 2017.06*, Bachelor of Communication and Engineering, Huazhong University of Science and Technology
+- *2020.02 - 2021.07*, Master of Data Science, University of Sydney
+- *2021.10 - 2023.03*, Master by Research in Computer Vision, University of Sydney
+- *2023.10 - Present*, Ph.D in Computer Vision, University of Sydney
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Teaching
+- *2022 S1, 2023 S1*, Teaching Assistant of COMP5329 Deep Learning
+- *2022 S2, 2023 S2*, Teaching Assistant of HTIN5005 Applied Healthcare Data Science
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic Service
+- *Conference Reviewer*: ICML2023, NeuIPS2023, AAAI2024
+- *Journal Reviewer*: T-MM, TMLR, DAMI
