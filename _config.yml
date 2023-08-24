@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Linwei Tao (陶林伟)"
+  name             : "Linwei Tao <br>陶林伟"
   avatar           : "images/profile.jpg"
   bio              : "University of Sydney"
   location         : "Sydney, Australia"
