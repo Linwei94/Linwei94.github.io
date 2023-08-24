@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Linwei Tao(陶林伟)"
+title                    : "Linwei Tao (陶林伟)"
 description              : "Ph.D Candidate // Interested in Uncertainty Estimation"
 repository               : "Linwei94/Linwei94.github.io"
 google_scholar_stats_use_cdn : true
