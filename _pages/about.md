@@ -17,30 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervised by <a href="http://changxu.xyz/">Dr Chang Xu</a>. He received B.Eng degree from Huazhong University of Science and Technology in 2013. His research focuses on Uncertainty Calibration, Neural Architecture Search(NAS) and Computer Vision. He also worked as a teaching assistant for COMP5329 and HTIN5005 in USYD.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Dual Focal Loss for Calibration
+        link: https://arxiv.org/abs/2305.13665
+        link_text: Arxiv & Code
+        caption: ICML 2023
+    
+      - layout: left
+        title: 
+        link: 
+        link_text: Arxiv & Code
+        caption: IJCAI 2023
+        
+      - layout: left
+        title: A Benchmark Study on Calibration
+        link: 
+        link_text: Arxiv & Code
+        caption: Preprint
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Linwei Tao**, Minjing Dong, Chang Xu. “Dual Focal Loss for Calibration”, In Proceedings of the 38th International Conference on Machine Learning **(ICML)**, 2023.
+<strong style="color:gray">(CCF A, Core A\*)</strong>
+[[Paper]](https://arxiv.org/abs/2305.13665)
+[[Code]](https://github.com/Linwei94/DualFocalLoss)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **Linwei Tao**, Minjing Dong, Daochang Liu, Changming Sun, Chang Xu. “Calibrating a Deep Neural Network with Its Predecessors”, In Proceedings of the 30th International Joint Conference on Artificial Intelligence **(IJCAI)**, 2023.
+<strong style="color:gray">(CCF A, Core A\*)</strong>
+[[Paper]](https://arxiv.org/abs/2302.06245)
+[[Code]](https://github.com/Linwei94/PCS)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Linwei Tao**, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu. “A Benchmark Study on Calibration”, 2023, Preprint.
+[[Paper]](https://arxiv.org/abs/2308.11838)
+[[Code]](https://github.com/Linwei94/CalibrationDataset)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
