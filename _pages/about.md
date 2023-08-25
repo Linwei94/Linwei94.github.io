@@ -71,6 +71,7 @@ Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervise
 
 # 🐱 My Cats
 
-![Water](/images/profile.jpg)
-<img src="/images/profile.jpg" width="200" height="100">
+<img src="/images/water.jpg" width="300">
+<img src="/images/melon.jpg" width="300">
+<img src="/images/juice.jpg" width="300">
 
