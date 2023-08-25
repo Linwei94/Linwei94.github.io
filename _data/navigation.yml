@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#teaching"
   
   - title: "Honors and Awards"
-    url: "/#-honors-awards"
+    url: "/#honors-awards"
 
   - title: "Academic Service"
-    url: "/#-academic-service"
+    url: "/#academic-service"
     
   - title: "CV"
     url: "https://Linwei94.github.io/assets/CV-3.pdf"
