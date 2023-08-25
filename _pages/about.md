@@ -52,10 +52,10 @@ Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervise
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Awards
 
-- 2023.03 Faculty of Engineering Research Support Scholarship, University of Sydney 
-- 2023.03 University of Sydney International Tuition Fee Scholarship
-- 2014.09 Excellent Student Cadre of HUST
-- 2014.06 Science and Technology Scholarship of HUST
+- *2023.03*, Faculty of Engineering Research Support Scholarship, University of Sydney 
+- *2023.03*, University of Sydney International Tuition Fee Scholarship
+- *2014.09*, Excellent Student Cadre of HUST
+- *2014.06*, Science and Technology Scholarship of HUST
 
 <span class='anchor' id='academic-service'></span>
 # 💻 Academic Service
