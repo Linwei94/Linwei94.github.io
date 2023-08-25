@@ -36,7 +36,7 @@ Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervise
 [[Code]](https://github.com/Linwei94/CalibrationDataset)
 
 <span class='anchor' id='educations'></span>
-# 📖 Educations
+# 📖 Education
 
 - *2023.10 - Present*, Ph.D in Computer Vision, University of Sydney
 - *2021.10 - 2023.03*, Master by Research in Computer Vision, University of Sydney
