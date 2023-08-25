@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervised by <a href="http://changxu.xyz/">Dr Chang Xu</a>. He received B.Eng degree from Huazhong University of Science and Technology in 2013. His research focuses on Uncertainty Calibration, Neural Architecture Search(NAS) and Computer Vision. He also worked as a teaching assistant for COMP5329 and HTIN5005 in USYD.
+Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervised by <a href="http://changxu.xyz/">Dr Chang Xu</a>. He received B.Eng degree from Huazhong University of Science and Technology in 2017. His research focuses on Uncertainty Calibration, Neural Architecture Search(NAS) and Computer Vision. He also worked as a teaching assistant for COMP5329 and HTIN5005 in USYD.
 
 
 <span class='anchor' id='publications'></span>
