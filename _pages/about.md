@@ -63,6 +63,13 @@ Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervise
 - *2015.09*, Excellent Student Cadre, Huazhong University of Science and Technology
 - *2014.06*, Science and Technology Scholarship, Huazhong University of Science and Technology
 
+<span class='anchor' id='invited-talks'></span>
+# 💬 Invited Talks
+
+- *2023.05*, "Dual Focal Loss for Calibration", at AI-Time
+- *2023.04*, "Collaborating with ChatGPT and Revolutionising the Research Workflow", at University of Sydney, Faculty of Engineering HDR Afternoon Tea Talk
+- *2023.02*, "Calibrating a Deep Neural Network with Its Predecessors", at University of Sydney, Deep Learning class
+
 <span class='anchor' id='academic-service'></span>
 # 💻 Academic Service
 
