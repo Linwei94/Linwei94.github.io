@@ -11,7 +11,10 @@ main:
 
   - title: "Teaching"
     url: "/#teaching"
-  
+
+  - title: "Internship"
+    url: "/#internship"
+    
   - title: "Honors and Awards"
     url: "/#honors-awards"
 
