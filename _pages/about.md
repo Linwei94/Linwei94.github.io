@@ -49,12 +49,18 @@ Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervise
 - *2022 S1, 2023 S1*, Teaching Assistant of COMP5329 Deep Learning
 - *2022 S2, 2023 S2*, Teaching Assistant of HTIN5005 Applied Healthcare Data Science
 
+<span class='anchor' id='internship'></span>
+# 🧑‍🏫 Internship
+
+- *2015.06 - 2015.09*, IOS developer, Ctrip.com
+- *2014.06 - 2014.09*, Frontend developer, Sunallies.com
+
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Awards
 
 - *2023.03*, Faculty of Engineering Research Support Scholarship, University of Sydney 
 - *2023.03*, University of Sydney International Tuition Fee Scholarship
-- *2014.09*, Excellent Student Cadre of HUST
+- *2015.09*, Excellent Student Cadre of HUST
 - *2014.06*, Science and Technology Scholarship of HUST
 
 <span class='anchor' id='academic-service'></span>
