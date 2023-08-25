@@ -50,7 +50,7 @@ Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervise
 - *2022 S2, 2023 S2*, Teaching Assistant of HTIN5005 Applied Healthcare Data Science
 
 <span class='anchor' id='internship'></span>
-# 🧑‍🏫 Internship
+# 💼 Internship
 
 - *2015.06 - 2015.09*, IOS developer, Ctrip.com
 - *2014.06 - 2014.09*, Frontend developer, Sunallies.com
