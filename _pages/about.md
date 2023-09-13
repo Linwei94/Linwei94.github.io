@@ -39,9 +39,9 @@ Linwei Tao is a first year Ph.D candidate at the University of Sydney, supervise
 # 📖 Education
 
 - *2023.10 - Present*, Ph.D in Computer Vision, University of Sydney
-- *2021.10 - 2023.03*, Master by Research in Computer Vision, University of Sydney
+- *2021.10 - 2023.03*, M.Phil in Computer Vision, University of Sydney
 - *2020.02 - 2021.07*, Master of Data Science, University of Sydney
-- *2013.09 - 2017.06*, Bachelor of Communication and Engineering, Huazhong University of Science and Technology
+- *2013.09 - 2017.06*, B.Eng in Communication and Engineering, Huazhong University of Science and Technology
 
 <span class='anchor' id='teaching'></span>
 # 🧑‍🏫 Teaching
