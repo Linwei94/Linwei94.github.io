@@ -31,6 +31,7 @@ Linwei Tao is a first year Ph.D student at the University of Sydney, supervised 
 - **Linwei Tao**, Minjing Dong, Daochang Liu, Changming Sun, Chang Xu. “Calibrating a Deep Neural Network with Its Predecessors”, In Proceedings of the 32th International Joint Conference on Artificial Intelligence (IJCAI), 2023.
 [[Paper]](https://arxiv.org/pdf/2302.06245.pdf)
 [[Code]](https://github.com/Linwei94/PCS)
+[[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
 
 - **Linwei Tao**, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu. “A Benchmark Study on Calibration”, 2023, Preprint.
 [[Paper]](https://arxiv.org/pdf/2308.11838.pdf)
