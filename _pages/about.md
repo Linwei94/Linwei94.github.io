@@ -37,6 +37,9 @@ Linwei Tao is a first year Ph.D student at the University of Sydney, supervised 
 [[Paper]](https://arxiv.org/pdf/2308.11838.pdf)
 [[Code]](https://github.com/Linwei94/CalibrationDataset)
 
+- Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu. “Visual Imitation Learning with Calibrated Contrastive Representation”, Preprint
+[[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
+
 <span class='anchor' id='educations'></span>
 # 📖 Education
 
