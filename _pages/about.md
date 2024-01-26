@@ -22,6 +22,12 @@ Linwei Tao is a first year Ph.D student at the University of Sydney, supervised 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
+- Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu. “Visual Imitation Learning with Calibrated Contrastive Representation”, Preprint.
+[[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
+
+- **Linwei Tao**, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu. “A Benchmark Study on Calibration”, International Conference on Learning Representations (ICLR), 2024.
+[[Paper]](https://arxiv.org/pdf/2308.11838.pdf)
+[[Code]](https://github.com/Linwei94/CalibrationDataset)
 
 - **Linwei Tao**, Minjing Dong, Chang Xu. “Dual Focal Loss for Calibration”, International Conference on Machine Learning (ICML), 2023.
 [[Paper]](https://arxiv.org/pdf/2305.13665.pdf)
@@ -33,12 +39,8 @@ Linwei Tao is a first year Ph.D student at the University of Sydney, supervised 
 [[Code]](https://github.com/Linwei94/PCS)
 [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
 
-- **Linwei Tao**, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu. “A Benchmark Study on Calibration”, International Conference on Learning Representations (ICLR), 2024.
-[[Paper]](https://arxiv.org/pdf/2308.11838.pdf)
-[[Code]](https://github.com/Linwei94/CalibrationDataset)
 
-- Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu. “Visual Imitation Learning with Calibrated Contrastive Representation”, Preprint.
-[[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
+
 
 <span class='anchor' id='educations'></span>
 # 📖 Education
