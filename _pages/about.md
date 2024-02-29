@@ -26,7 +26,7 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 [[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
 
 - **Linwei Tao**, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu. “A Benchmark Study on Calibration”, International Conference on Learning Representations (ICLR), 2024.
-[[Paper]](https://openreview.net/forum?id=GzNhzX9kVa)
+[[Paper]](https://openreview.net/pdf?id=GzNhzX9kVa)
 [[Dataset]](https://github.com/Linwei94/calibration-study)
 [[Code]](https://github.com/Linwei94/calibration-study/tree/main/plotting)
 [[Project Page]](https://www.taolinwei.com/calibration-study/)
