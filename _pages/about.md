@@ -30,6 +30,7 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 [[Dataset]](https://github.com/Linwei94/calibration-study)
 [[Code]](https://github.com/Linwei94/calibration-study/tree/main/plotting)
 [[Project Page]](https://www.taolinwei.com/calibration-study/)
+[[Poster]](https://iclr.cc/media/PosterPDFs/ICLR%202024/19011.png?t=1713511392.4471395)
 
 - **Linwei Tao**, Minjing Dong, Chang Xu. “Dual Focal Loss for Calibration”, International Conference on Machine Learning (ICML), 2023.
 [[Paper]](https://proceedings.mlr.press/v202/tao23a/tao23a.pdf)
@@ -76,9 +77,9 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 
-- *2023.05*, "Dual Focal Loss for Calibration", at AI-Time
+- *2023.05*, "Dual Focal Loss for Calibration", at AI-Time [[Slides]](https://drive.google.com/file/d/1M9tilEwUivW6cQXsy63O21jmIISugAtk/view?usp=share_link)
 - *2023.04*, "Collaborating with ChatGPT and Revolutionising the Research Workflow", at University of Sydney, Faculty of Engineering HDR Afternoon Tea Talk
-- *2023.02*, "Calibrating a Deep Neural Network with Its Predecessors", at University of Sydney, Deep Learning class
+- *2023.02*, "Calibrating a Deep Neural Network with Its Predecessors", at University of Sydney, Deep Learning class [[Slides]](https://drive.google.com/file/d/1b_KyAVqdTd8Tx548_XI9PdaFh-A6vOWJ/view?usp=share_link)
 
 <span class='anchor' id='academic-service'></span>
 # 💻 Academic Service
