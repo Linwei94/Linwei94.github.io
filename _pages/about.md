@@ -85,7 +85,7 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 # 💻 Academic Service
 
 - *Conference Reviewer*: ICML‘23, NeuIPS‘23, AAAI‘24, ICLR‘24, CVPR‘24, ICML‘24, IJCAI‘24, MM‘24, NeuIPS‘24, AAAI‘25
-- *Journal Reviewer*: T-MM, TMLR, DAMI
+- *Journal Reviewer*: T-MM, TMLR, DAMI, TPAMI
 
 <!--- 
 <span class='anchor' id='my-cats'></span>
