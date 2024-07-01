@@ -19,6 +19,8 @@ redirect_from:
 
 Linwei Tao is a first year Ph.D student at The University of Sydney, supervised by A/Prof <a href="http://changxu.xyz/">Chang Xu</a>. He received B.Eng degree from Huazhong University of Science and Technology in 2017. His research focuses on Uncertainty Estimation and Calibration. He also worked as a head TA for COMP5329 Deep Learning and HTIN5005 Applied Healthcare Data Science in USYD.
 
+[Resume](https://www.taolinwei.com)
+
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
