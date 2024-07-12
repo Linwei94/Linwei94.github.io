@@ -55,7 +55,7 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 
 <span class='anchor' id='teaching'></span>
 # 🧑‍🏫 Teaching
-
+- *2024 S2*, Head TA of OCMP5329 Deep Learning (Online)
 - *2022 S1, 2023 S1, 2024 S1*, Head TA of COMP5329 Deep Learning
 - *2022 S2, 2023 S2*, Head TA of HTIN5005 Applied Healthcare Data Science
 
