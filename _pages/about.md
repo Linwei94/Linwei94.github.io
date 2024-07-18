@@ -39,12 +39,16 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 [[Project Page]](https://www.taolinwei.com/calibration-study/)
 [[Poster]](https://iclr.cc/media/PosterPDFs/ICLR%202024/19011.png?t=1713511392.4471395)
 
-- **Linwei Tao**, Minjing Dong, Chang Xu. “Dual Focal Loss for Calibration”, International Conference on Machine Learning (ICML), 2023.
+- Dual Focal Loss for Calibration  
+  **Linwei Tao**, Minjing Dong, Chang Xu.  
+  ICML, 2023.
 [[Paper]](https://proceedings.mlr.press/v202/tao23a/tao23a.pdf)
 [[Code]](https://github.com/Linwei94/DualFocalLoss)
 [[Poster]](https://icml.cc/media/PosterPDFs/ICML%202023/24955.png?t=1687073089.4563115)
 
-- **Linwei Tao**, Minjing Dong, Daochang Liu, Changming Sun, Chang Xu. “Calibrating a Deep Neural Network with Its Predecessors”, International Joint Conference on Artificial Intelligence (IJCAI), 2023.
+- Calibrating a Deep Neural Network with Its Predecessors  
+  **Linwei Tao**, Minjing Dong, Daochang Liu, Changming Sun, Chang Xu.  
+  IJCAI, 2023.
 [[Paper]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiPw7DCu8-EAxWWgVYBHQrGCKcQFnoECA8QAQ&url=https%3A%2F%2Fwww.ijcai.org%2Fproceedings%2F2023%2F0475.pdf&usg=AOvVaw1Phcix6AXHLg5eCf7FlVHR&opi=89978449)
 [[Code]](https://github.com/Linwei94/PCS)
 [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
