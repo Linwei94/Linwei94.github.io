@@ -22,12 +22,13 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-- GraphFusion: Integrating Multi-Level Semantic Information with Graph Computing forEnhanced 3D Instance Segmentation
-  Lei Pan, Wuyang Luan, Yuan Zheng, Junhui Li, **Linwei Tao**, Chang Xu.
+- GraphFusion: Integrating Multi-Level Semantic Information with Graph Computing forEnhanced 3D Instance Segmentation  
+  Lei Pan, Wuyang Luan, Yuan Zheng, Junhui Li, **Linwei Tao**, Chang Xu.  
   Neurocomputing, 2024.
 
-- Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu. “Visual Imitation Learning with Calibrated Contrastive Representation”, Preprint.
-[[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
+- Visual Imitation Learning with Calibrated Contrastive Representation  
+  Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu.  
+  Preprint. [[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
 
 - **Linwei Tao**, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu. “A Benchmark Study on Calibration”, International Conference on Learning Representations (ICLR), 2024.
 [[Paper]](https://openreview.net/pdf?id=GzNhzX9kVa)
