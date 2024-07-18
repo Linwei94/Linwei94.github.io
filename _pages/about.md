@@ -22,7 +22,9 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-- Lei Pan, Wuyang Luan, Yuan Zheng, Junhui Li, **Linwei Tao**, Chang Xu. “GraphFusion: Integrating Multi-Level Semantic Information with Graph Computing forEnhanced 3D Instance Segmentation”, Neurocomputing.
+- GraphFusion: Integrating Multi-Level Semantic Information with Graph Computing forEnhanced 3D Instance Segmentation
+  Lei Pan, Wuyang Luan, Yuan Zheng, Junhui Li, **Linwei Tao**, Chang Xu.
+  Neurocomputing, 2024.
 
 - Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu. “Visual Imitation Learning with Calibrated Contrastive Representation”, Preprint.
 [[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
