@@ -23,11 +23,11 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 - Feature Clipping for Uncertainty Calibration
-- **Linwei Tao**, Minjing Dong, Chang Xu.
+  **Linwei Tao**, Minjing Dong, Chang Xu.
   Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
 
 - Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors
-- **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.
+  **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.
   Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
 
 - GraphFusion: Integrating Multi-Level Semantic Information with Graph Computing forEnhanced 3D Instance Segmentation  
