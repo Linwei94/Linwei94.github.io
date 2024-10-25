@@ -31,7 +31,7 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 
 - Diffusion Attribution Score: Which Training Sample Determines Your Generation?  
   Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  Preprint, 2024. 
+  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.18639)
 
 - Feature Clipping for Uncertainty Calibration  
   **Linwei Tao**, Minjing Dong, Chang Xu.  
