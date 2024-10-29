@@ -29,13 +29,13 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
   **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.  
   Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.12295)
 
-- Diffusion Attribution Score: Which Training Sample Determines Your Generation?  
+- Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model  
   Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
   Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.18639)
 
 - Feature Clipping for Uncertainty Calibration  
   **Linwei Tao**, Minjing Dong, Chang Xu.  
-  Preprint, 2024. 
+  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.19796)
 
 - GraphFusion: Integrating Multi-Level Semantic Information with Graph Computing forEnhanced 3D Instance Segmentation  
   Lei Pan, Wuyang Luan, Yuan Zheng, Junhui Li, **Linwei Tao**, Chang Xu.  
