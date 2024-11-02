@@ -108,7 +108,7 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 
-- *2024.10*, "ITCD: Image to Text Translation for Classification by Diffusion Models", at Efficiency, Security, and Generalization of Multimedia Foundation Models Workshop @ ACM Multimedia 2024 [[Link]](https://esgmfm.site)
+- *2024.10*, "ITCD: Image to Text Translation for Classification by Diffusion Models", at Efficiency, Security, and Generalization of Multimedia Foundation Models Workshop at ACM Multimedia 2024 [[Link]](https://esgmfm.site)
 - *2023.05*, "Dual Focal Loss for Calibration", at AI-Time [[Slides]](https://drive.google.com/file/d/1M9tilEwUivW6cQXsy63O21jmIISugAtk/view?usp=share_link)
 - *2023.04*, "Collaborating with ChatGPT and Revolutionising the Research Workflow", at University of Sydney, Faculty of Engineering HDR Afternoon Tea Talk
 - *2023.02*, "Calibrating a Deep Neural Network with Its Predecessors", at University of Sydney, Deep Learning class [[Slides]](https://drive.google.com/file/d/1b_KyAVqdTd8Tx548_XI9PdaFh-A6vOWJ/view?usp=share_link)
