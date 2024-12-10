@@ -35,7 +35,9 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 
 - Feature Clipping for Uncertainty Calibration  
   **Linwei Tao**, Minjing Dong, Chang Xu.  
-  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.19796)
+  AAAI, 2025.
+  [[Paper]](https://arxiv.org/pdf/2410.19796)
+  [[Code]](https://github.com/Linwei94/AAAI2025-FeatureClipping.git)
 
 - GraphFusion: Integrating Multi-Level Semantic Information with Graph Computing forEnhanced 3D Instance Segmentation  
   Lei Pan, Wuyang Luan, Yuan Zheng, Junhui Li, **Linwei Tao**, Chang Xu.  
