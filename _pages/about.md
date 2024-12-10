@@ -25,14 +25,6 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-- Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors  
-  **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.  
-  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.12295)
-
-- Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model  
-  Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.18639)
-
 - Feature Clipping for Uncertainty Calibration  
   **Linwei Tao**, Minjing Dong, Chang Xu.  
   AAAI, 2025.
@@ -44,10 +36,6 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
   Neurocomputing, 2024.
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231224010580?via%3Dihub)
   [[Code]](https://github.com/3171228612/GraphFusion)
-
-- Visual Imitation Learning with Calibrated Contrastive Representation  
-  Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu.  
-  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
 
 - A Benchmark Study on Calibration  
   **Linwei Tao**, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu.  
@@ -74,6 +62,22 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 [[Code]](https://github.com/Linwei94/PCS)
 [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
 [[Slides]](https://drive.google.com/file/d/1b_KyAVqdTd8Tx548_XI9PdaFh-A6vOWJ/view?usp=share_link)
+
+
+
+
+- Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors  
+  **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.  
+  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.12295)
+
+- Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model  
+  Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
+  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.18639)
+
+- Visual Imitation Learning with Calibrated Contrastive Representation  
+  Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu.  
+  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
+
 
 
 
