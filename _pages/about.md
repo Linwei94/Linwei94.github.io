@@ -25,6 +25,10 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
+- Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model  
+  Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
+  ICLR, 2025. [[Paper]](https://arxiv.org/pdf/2410.18639)
+
 - Feature Clipping for Uncertainty Calibration  
   **Linwei Tao**, Minjing Dong, Chang Xu.  
   AAAI, 2025.
@@ -64,15 +68,21 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
 [[Slides]](https://drive.google.com/file/d/1b_KyAVqdTd8Tx548_XI9PdaFh-A6vOWJ/view?usp=share_link)
 
 
-
-
 - Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors  
   **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.  
-  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.12295)
+  Preprint, 2025. [[Paper]](https://arxiv.org/pdf/2410.12295)
 
-- Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model  
-  Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2410.18639)
+- Uncertainty Weighted Gradients for Model Calibration
+  Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu
+  Preprint, 2025. 
+
+- Attention Calibration for Reducing Hallucination in Large Vision-Language Models
+  Younan Zhu, **Linwei Tao**, Minjing Dong, Chang Xu
+  Preprint, 2025. 
+
+- Beyond One-Hot Labels: Semantic Mixing for Model Calibration
+  Haoyang Luo, **Linwei Tao**, Minjing Dong, Chang Xu
+  Preprint, 2025. 
 
 - Visual Imitation Learning with Calibrated Contrastive Representation  
   Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu.  
