@@ -72,15 +72,15 @@ Linwei Tao is a first year Ph.D student at The University of Sydney, supervised 
   **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.  
   Preprint, 2025. [[Paper]](https://arxiv.org/pdf/2410.12295)
 
-- Uncertainty Weighted Gradients for Model Calibration
+- Uncertainty Weighted Gradients for Model Calibration  
   Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu
   Preprint, 2025. 
 
-- Attention Calibration for Reducing Hallucination in Large Vision-Language Models
+- Attention Calibration for Reducing Hallucination in Large Vision-Language Models  
   Younan Zhu, **Linwei Tao**, Minjing Dong, Chang Xu
   Preprint, 2025. 
 
-- Beyond One-Hot Labels: Semantic Mixing for Model Calibration
+- Beyond One-Hot Labels: Semantic Mixing for Model Calibration  
   Haoyang Luo, **Linwei Tao**, Minjing Dong, Chang Xu
   Preprint, 2025. 
 
