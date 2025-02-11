@@ -67,6 +67,9 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
 [[Slides]](https://drive.google.com/file/d/1b_KyAVqdTd8Tx548_XI9PdaFh-A6vOWJ/view?usp=share_link)
 
+- Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration  
+  Younan Zhu, **Linwei Tao**, Minjing Dong, Chang Xu.  
+  Preprint, 2025. [[Paper]](https://arxiv.org/pdf/2502.01969)
 
 - Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors  
   **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.  
@@ -74,10 +77,6 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 
 - Uncertainty Weighted Gradients for Model Calibration  
   Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  Preprint, 2025. 
-
-- Attention Calibration for Reducing Hallucination in Large Vision-Language Models  
-  Younan Zhu, **Linwei Tao**, Minjing Dong, Chang Xu.  
   Preprint, 2025. 
 
 - Beyond One-Hot Labels: Semantic Mixing for Model Calibration  
