@@ -27,7 +27,7 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 
 - Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model  
   Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  ICLR, 2025. [[Paper]](https://arxiv.org/pdf/2410.18639) <strong style="color:#E03030">(Spotlight, 5.1% of 11,500 submissions)</strong>
+  ICLR, 2025. [[Paper]](https://arxiv.org/pdf/2410.18639) <strong style="color:#d4534a">(Spotlight, 5.1% of 11,500 submissions)</strong>
 
 - Feature Clipping for Uncertainty Calibration  
   **Linwei Tao**, Minjing Dong, Chang Xu.  
