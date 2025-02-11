@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Linwei Tao is a first year Ph.D student at The University of Sydney, supervised by A/Prof <a href="http://changxu.xyz/">Chang Xu</a>. He received B.Eng degree from Huazhong University of Science and Technology in 2017. His research focuses on Uncertainty Calibration and Machine Learning. He also worked as a head TA for COMP5329 Deep Learning and HTIN5005 Applied Healthcare Data Science in USYD.
+Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <a href="http://changxu.xyz/">Chang Xu</a>. He received B.Eng degree from Huazhong University of Science and Technology in 2017. His research focuses on Uncertainty Calibration and Machine Learning. He also worked as a head TA for COMP5329 Deep Learning and HTIN5005 Applied Healthcare Data Science in USYD.
 
 <br>
 <a href="https://scholar.google.com.au/citations?user=GeNHmf4AAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/Linwei94n">Github</a> / <a href="/assets/Resume.pdf" target="_blank">CV</a>
