@@ -114,7 +114,6 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Awards
 
-- *2025.02*, Faculty of Engineering Dean’s Awards in the category Enhancing Student Life, University of Sydney 
 - *2024.05*, Google Cloud Research Credits Award ($2340 AUD)
 - *2023.06*, International Tuition Fee Scholarship, University of Sydney 
 - *2023.05*, Faculty of Engineering Research Support Scholarship, University of Sydney 
