@@ -22,6 +22,12 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 <br>
 <a href="https://scholar.google.com.au/citations?user=GeNHmf4AAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/Linwei94">Github</a> / <a href="/assets/Resume.pdf" target="_blank">CV</a>
 
+# 🔥 News
+- *2025.02*: 🎉🎉 One paper is accepted by **CVPR 2025**.
+- *2025.01*: 🎉🎉 One paper is accepted by **ICLR 2025**.
+- *2024.11*: 🎉🎉 One paper is accepted by **AAAI 2025**.
+
+
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
