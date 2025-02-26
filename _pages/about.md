@@ -31,6 +31,10 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 
+- Uncertainty Weighted Gradients for Model Calibration  
+  Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
+  CVPR, 2025. 
+
 - Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model  
   Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
   ICLR, 2025.  <strong style="color:#d4534a">(Spotlight, 5.1% of 11,500 submissions)</strong> [[Paper]](https://arxiv.org/pdf/2410.18639)
@@ -80,10 +84,6 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 - Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors  
   **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.  
   Preprint, 2025. [[Paper]](https://arxiv.org/pdf/2410.12295)
-
-- Uncertainty Weighted Gradients for Model Calibration  
-  Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  Preprint, 2025. 
 
 - Beyond One-Hot Labels: Semantic Mixing for Model Calibration  
   Haoyang Luo, **Linwei Tao**, Minjing Dong, Chang Xu.  
