@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <a href="http://changxu.xyz/">Chang Xu</a>. He received B.Eng degree from Huazhong University of Science and Technology in 2017. His research focuses on Uncertainty Calibration and Machine Learning. He also worked as a head TA for COMP5329 Deep Learning and HTIN5005 Applied Healthcare Data Science in USYD.
+Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <a href="http://changxu.xyz/">Chang Xu</a>. He received B.Eng degree from Huazhong University of Science and Technology in 2017. His research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models. He also worked as a head TA for COMP5329 Deep Learning and HTIN5005 Applied Healthcare Data Science in USYD.
 
 <br>
 <a href="https://scholar.google.com.au/citations?user=GeNHmf4AAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/Linwei94">Github</a> / <a href="/assets/Resume.pdf" target="_blank">CV</a>
@@ -33,7 +33,11 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 
 - Uncertainty Weighted Gradients for Model Calibration  
   Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  CVPR, 2025. 
+  CVPR, 2025.
+
+- KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models. 
+  Yingqing Yuan, **Linwei Tao**, Haohui Lu, Matloob Khushi, Imran Razzak, Mark Dras,Jian Yang, Usman Naseem. 
+  WWW Workshop, 2025. 
 
 - Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model  
   Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
