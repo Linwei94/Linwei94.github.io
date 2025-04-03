@@ -35,8 +35,8 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
   Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
   CVPR, 2025.
 
-- KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models. 
-  Yingqing Yuan, **Linwei Tao**, Haohui Lu, Matloob Khushi, Imran Razzak, Mark Dras,Jian Yang, Usman Naseem. 
+- KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models  
+  Yingqing Yuan, **Linwei Tao**, Haohui Lu, Matloob Khushi, Imran Razzak, Mark Dras,Jian Yang, Usman Naseem.  
   WWW Workshop, 2025. 
 
 - Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model  
