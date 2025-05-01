@@ -23,6 +23,7 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 <a href="https://scholar.google.com.au/citations?user=GeNHmf4AAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/Linwei94">Github</a> / <a href="/assets/Resume.pdf" target="_blank">CV</a>
 
 # 🔥 News
+- *2025.05*: 🎉🎉 One paper is accepted by **ICML 2025**.
 - *2025.02*: 🎉🎉 One paper is accepted by **CVPR 2025**.
 - *2025.01*: 🎉🎉 One paper is accepted by **ICLR 2025**.
 - *2024.11*: 🎉🎉 One paper is accepted by **AAAI 2025**.
@@ -30,6 +31,10 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
+
+- Beyond One-Hot Labels: Semantic Mixing for Model Calibration  
+  Haoyang Luo, **Linwei Tao**, Minjing Dong, Chang Xu.  
+  ICML, 2025. 
 
 - Uncertainty Weighted Gradients for Model Calibration  
   Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
@@ -88,10 +93,6 @@ Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <
 - Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors  
   **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.  
   Preprint, 2025. [[Paper]](https://arxiv.org/pdf/2410.12295)
-
-- Beyond One-Hot Labels: Semantic Mixing for Model Calibration  
-  Haoyang Luo, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  Preprint, 2025. 
 
 - Visual Imitation Learning with Calibrated Contrastive Representation  
   Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu.  
