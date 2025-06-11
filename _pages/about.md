@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Linwei Tao is a Ph.D student at The University of Sydney, supervised by A/Prof <a href="http://changxu.xyz/">Chang Xu</a>. He received B.Eng degree from Huazhong University of Science and Technology in 2017. His research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models. He also worked as a head TA for COMP5329 Deep Learning and HTIN5005 Applied Healthcare Data Science in USYD.
-
+Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a> and Dr. <a href="https://daochang.site">Daochang Liu</a>. I will be a visiting research fellow at the University of Oxford, working under the supervision of Prof.<a href="https://eng.ox.ac.uk/people/philip-torr/">Philip Torr</a>. I am honored to collaborate with Dr. <a href="https://www.cs.cityu.edu.hk/~minjdong/">Minjing Dong</a> at CityU and Dr. <a href="https://taohuang.info">Tao Huang</a> at SJTU. I received my bachelor’s degree from HUST in 2017. My research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models. 
 <br>
 <a href="https://scholar.google.com.au/citations?user=GeNHmf4AAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/Linwei94">Github</a> / <a href="/assets/Resume.pdf" target="_blank">CV</a>
 
