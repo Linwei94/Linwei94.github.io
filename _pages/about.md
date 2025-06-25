@@ -23,6 +23,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 <a href="https://scholar.google.com.au/citations?user=GeNHmf4AAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/Linwei94">Github</a> / <a href="/assets/Resume.pdf" target="_blank">CV</a>
 
 # 🔥 News
+- *2025.06*: 🎉🎉 I’m honored to have been elected to the Student Committee of the AAAI 2026.
 - *2025.05*: 🎉🎉 One paper is accepted by **ICML 2025**.
 - *2025.02*: 🎉🎉 One paper is accepted by **CVPR 2025**.
 - *2025.01*: 🎉🎉 One paper is accepted by **ICLR 2025**.
@@ -125,6 +126,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Awards
 
+- *2025.06*, Student Committee of the AAAI 2026
 - *2024.05*, Google Cloud Research Credits Award ($2340 AUD)
 - *2023.06*, International Tuition Fee Scholarship, University of Sydney 
 - *2023.05*, Faculty of Engineering Research Support Scholarship, University of Sydney 
