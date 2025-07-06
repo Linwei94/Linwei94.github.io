@@ -23,7 +23,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 <a href="https://scholar.google.com.au/citations?user=GeNHmf4AAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/Linwei94">Github</a> / <a href="/assets/Resume.pdf" target="_blank">CV</a>
 
 # 🔥 News
-- *2025.07*: 🚀🚀 I'm excited to be joining Google Sydney as a Research Scientist Intern this November! Looking forward to collaborating with world-class researchers and exploring cutting-edge AI problems.
+- *2025.07*: 🚀🚀 I'm excited to be joining Google Sydney as a Research Scientist Intern this November!
 - *2025.06*: 🎉🎉 I’m honored to have been elected to the Student Committee of the AAAI 2026.
 - *2025.05*: 🎉🎉 One paper is accepted by **ICML 2025**.
 - *2025.02*: 🎉🎉 One paper is accepted by **CVPR 2025**.
@@ -146,6 +146,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 
 - *Conference Reviewer*: ICML, NeuIPS, AAAI, ICLR, CVPR, ICML, IJCAI, ACMMM, AISTATS
 - *Journal Reviewer*: T-MM, TMLR, DAMI, TPAMI
+- *Organizer*: [Sydney AI Meetup](https://sydneyaimeetup.org)
 
 <!--- 
 <span class='anchor' id='my-cats'></span>
