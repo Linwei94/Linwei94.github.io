@@ -114,20 +114,24 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 
 <span class='anchor' id='teaching'></span>
 # 🧑‍🏫 Teaching
-- *2024 S2*, Head TA of OCMP5329 Deep Learning (Online)
-- *2022 S1, 2023 S1, 2024 S1*, Head TA of COMP5329 Deep Learning
-- *2022 S2, 2023 S2*, Head TA of HTIN5005 Applied Healthcare Data Science
+- *2022 S1, 2023 S1, 2024 S1*, 2025 S1, COMP5329 Deep Learning
+- *2025 S2*, COMP5318 Machine Learning and Data Mining
+- *2022 S2, 2023 S2*, HTIN5005 Applied Healthcare Data Science
+- *2024 S1, 2024 S2, 2025 S1, 2025 S2*, BUSS6002 Data Science in Business
+- *2024 S2, 2025 S2*, QBUS5010 Intro to Dashboarding and Data Visualisation
+- *2024 S2*, OCMP5329 Deep Learning (Online)
 
 <span class='anchor' id='internship'></span>
 # 💼 Internship
 
-- *2015.06 - 2015.09*, IOS developer, Ctrip.com
-- *2014.06 - 2014.09*, Frontend developer, Sunallies.com
+- *2025.11 - 2026.02*, Research Scientist Intern, Google Research Australia
+- *2015.06 - 2015.09*, IOS developer Intern, Ctrip.com
+- *2014.06 - 2014.09*, Frontend developer Intern, Sunallies.com
 
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Awards
 
-- *2025.06*, Student Committee of the AAAI 2026
+- *2025.06*, Student Committee of the AAAI 2026 (1/3 in the world)
 - *2024.05*, Google Cloud Research Credits Award ($2340 AUD)
 - *2023.06*, International Tuition Fee Scholarship, University of Sydney 
 - *2023.05*, Faculty of Engineering Research Support Scholarship, University of Sydney 
