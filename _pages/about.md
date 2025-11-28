@@ -131,7 +131,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Awards
 
-- *2025.06*, Student Committee of the AAAI 2026 (1/3 in the world)
+- *2025.06*, Student Committee of the AAAI 2026 (1 of 3 in the world)
 - *2024.05*, Google Cloud Research Credits Award ($2340 AUD)
 - *2023.06*, International Tuition Fee Scholarship, University of Sydney 
 - *2023.05*, Faculty of Engineering Research Support Scholarship, University of Sydney 
