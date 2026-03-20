@@ -138,12 +138,6 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 - *2015.09*, Excellent Student Cadre, Huazhong University of Science and Technology
 - *2014.06*, Science and Technology Scholarship, Huazhong University of Science and Technology
 
-<span class='anchor' id='invited-talks'></span>
-# 💬 Invited Talks
-
-- *2024.10*, "ITCD: Image to Text Translation for Classification by Diffusion Models", at Efficiency, Security, and Generalization of Multimedia Foundation Models Workshop @ ACM Multimedia 2024 [[Link]](https://esgmfm.site)
-- *2023.05*, "Dual Focal Loss for Calibration", at AI-Time [[Slides]](https://drive.google.com/file/d/1M9tilEwUivW6cQXsy63O21jmIISugAtk/view?usp=share_link)
-- *2023.02*, "Calibrating a Deep Neural Network with Its Predecessors", at University of Sydney, Deep Learning class [[Slides]](https://drive.google.com/file/d/1b_KyAVqdTd8Tx548_XI9PdaFh-A6vOWJ/view?usp=share_link)
 
 <span class='anchor' id='academic-service'></span>
 # 💻 Academic Service
