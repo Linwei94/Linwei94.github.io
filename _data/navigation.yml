@@ -2,7 +2,7 @@
 main:
 
   - title: "Publications"
-    url: "/#publications"
+    url: "https://www.taolinwei.com/publications/"
 
   - title: "Educations"
     url: "/#educations"
