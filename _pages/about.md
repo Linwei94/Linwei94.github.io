@@ -22,6 +22,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 {% include profile-links.html %}
 
 # 🔥 News
+- *2026.01*: 🎉🎉 One paper is accepted by **ICLR 2026** — WATS: Wavelet-Aware Temperature Scaling for Reliable Graph Neural Networks.
 - *2026.02*: I completed my Research Scientist Internship at Google Research Australia! Great thanks to my mentors Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Dr. [Hisham Husain](https://www.hishamhusain.com).
 - *2025.11*: 🚀🚀 I start my journey at Google as a Research Scientist Intern!
 - *2025.06*: 🎉🎉 I’m honored to have been elected to the Student Committee of the AAAI 2026.
