@@ -26,10 +26,10 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 - *2026.01*: 🎉🎉 One paper is accepted by **ICLR 2026** — WATS: Wavelet-Aware Temperature Scaling for Reliable Graph Neural Networks.
 - *2025.11*: 🚀🚀 I start my journey at Google as a Research Scientist Intern!
 - *2025.06*: 🎉🎉 I’m honored to have been elected to the Student Committee of the AAAI 2026.
-- *2025.05*: 🎉🎉 One paper is accepted by **ICML 2025**.
-- *2025.02*: 🎉🎉 One paper is accepted by **CVPR 2025**.
-- *2025.01*: 🎉🎉 One paper is accepted by **ICLR 2025**.
-- *2024.11*: 🎉🎉 One paper is accepted by **AAAI 2025**.
+- *2025.05*: 🎉🎉 One paper is accepted by **ICML 2025** — Beyond One-Hot Labels: Semantic Mixing for Model Calibration.
+- *2025.02*: 🎉🎉 One paper is accepted by **CVPR 2025** — Uncertainty Weighted Gradients for Model Calibration.
+- *2025.01*: 🎉🎉 One paper is accepted by **ICLR 2025** — Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model. 🌟 Spotlight (5.1%)
+- *2024.11*: 🎉🎉 One paper is accepted by **AAAI 2025** — Feature Clipping for Uncertainty Calibration.
 
 
 
