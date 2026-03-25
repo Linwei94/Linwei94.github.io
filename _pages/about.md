@@ -71,48 +71,45 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 
 <div id="pub-list">
 
-  <!-- 2026 Published -->
-  <div class="pub-item" data-tags="ccfa corea calibration">
+  <div class="pub-item" data-tags="ccfa corea calibration" data-year="2026" data-preprint="0">
     WATS: Wavelet-Aware Temperature Scaling for Reliable Graph Neural Networks<br>
     Xiaoyang Li, <strong>Linwei Tao</strong>, Haohui Lu, Minjing Dong, Junbin Gao, Chang Xu.<br>
     ICLR, 2026.
   </div>
 
-  <div class="pub-item" data-tags="">
+  <div class="pub-item" data-tags="" data-year="2026" data-preprint="0">
     Task-Adaptive Continual Learning of Vision Language Models via Prototype Routing and Prompt<br>
     Lei Pan, Z. Lu, Yuan Zheng, C. Yan, H. Wen, <strong>Linwei Tao</strong>, Chang Xu.<br>
     Neurocomputing, 2026.
   </div>
 
-  <!-- 2026 Preprints -->
-  <div class="pub-item" data-tags="first-author calibration">
+  <div class="pub-item" data-tags="first-author calibration" data-year="2026" data-preprint="1">
     Confidence Calibration under Ambiguous Ground Truth<br>
     <strong>Linwei Tao</strong>, Haoyang Luo, Minjing Dong, Chang Xu.<br>
     Preprint, 2026. <a href="https://arxiv.org/abs/2603.22879">[Paper]</a>
     <a href="https://github.com/Linwei94/CalibrationAGT">[Code]</a>
   </div>
 
-  <!-- 2025 Published -->
-  <div class="pub-item" data-tags="ccfa corea calibration">
+  <div class="pub-item" data-tags="ccfa corea calibration" data-year="2025" data-preprint="0">
     Beyond One-Hot Labels: Semantic Mixing for Model Calibration<br>
     Haoyang Luo, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
     ICML, 2025.
   </div>
 
-  <div class="pub-item" data-tags="ccfa corea calibration">
+  <div class="pub-item" data-tags="ccfa corea calibration" data-year="2025" data-preprint="0">
     Uncertainty Weighted Gradients for Model Calibration<br>
     Jinxu Lin, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
     CVPR, 2025.
   </div>
 
-  <div class="pub-item" data-tags="ccfa corea diffusion">
+  <div class="pub-item" data-tags="ccfa corea diffusion" data-year="2025" data-preprint="0">
     Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model<br>
     Jinxu Lin, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
     ICLR, 2025. <strong style="color:#d4534a">(Spotlight, 5.1% of 11,500 submissions)</strong>
     <a href="https://arxiv.org/pdf/2410.18639">[Paper]</a>
   </div>
 
-  <div class="pub-item" data-tags="first-author ccfa corea calibration">
+  <div class="pub-item" data-tags="first-author ccfa corea calibration" data-year="2025" data-preprint="0">
     Feature Clipping for Uncertainty Calibration<br>
     <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
     AAAI, 2025.
@@ -120,45 +117,43 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     <a href="https://github.com/Linwei94/AAAI2025-FeatureClipping.git">[Code]</a>
   </div>
 
-  <div class="pub-item" data-tags="llm">
+  <div class="pub-item" data-tags="llm" data-year="2025" data-preprint="0">
     KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models<br>
     Yingqing Yuan, <strong>Linwei Tao</strong>, Haohui Lu, Matloob Khushi, Imran Razzak, Mark Dras, Jian Yang, Usman Naseem.<br>
     WWW Workshop, 2025.
   </div>
 
-  <!-- 2025 Preprints -->
-  <div class="pub-item" data-tags="first-author llm calibration">
+  <div class="pub-item" data-tags="first-author llm calibration" data-year="2025" data-preprint="1">
     Can Large Language Models Express Uncertainty Like Human?<br>
     <strong>Linwei Tao</strong>, Yi-Fan Yeh, Bo Kai, Minjing Dong, Tao Huang, Tom A. Lamb, Jialin Yu, Philip H.S. Torr, Chang Xu.<br>
     Preprint, 2025. <a href="https://arxiv.org/abs/2509.24202">[Paper]</a>
   </div>
 
-  <div class="pub-item" data-tags="first-author llm calibration">
+  <div class="pub-item" data-tags="first-author llm calibration" data-year="2025" data-preprint="1">
     Revisiting Uncertainty Estimation and Calibration of Large Language Models<br>
     <strong>Linwei Tao</strong>, Yi-Fan Yeh, Minjing Dong, Tao Huang, Philip Torr, Chang Xu.<br>
     Preprint, 2025. <a href="https://arxiv.org/abs/2505.23854">[Paper]</a>
   </div>
 
-  <div class="pub-item" data-tags="calibration">
+  <div class="pub-item" data-tags="calibration" data-year="2025" data-preprint="1">
     Sample Margin-Aware Recalibration of Temperature Scaling<br>
     Haolan Guo, <strong>Linwei Tao</strong>, Haoyang Luo, Minjing Dong, Chang Xu.<br>
     Preprint, 2025. <a href="https://arxiv.org/abs/2506.23492">[Paper]</a>
   </div>
 
-  <div class="pub-item" data-tags="llm calibration">
+  <div class="pub-item" data-tags="llm calibration" data-year="2025" data-preprint="1">
     Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration<br>
     Younan Zhu, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
     Preprint, 2025. <a href="https://arxiv.org/pdf/2502.01969">[Paper]</a>
   </div>
 
-  <div class="pub-item" data-tags="first-author calibration">
+  <div class="pub-item" data-tags="first-author calibration" data-year="2025" data-preprint="1">
     Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors<br>
     <strong>Linwei Tao</strong>, Haolan Guo, Minjing Dong, Chang Xu.<br>
     Preprint, 2025. <a href="https://arxiv.org/pdf/2410.12295">[Paper]</a>
   </div>
 
-  <!-- 2024 Published -->
-  <div class="pub-item" data-tags="first-author ccfa corea calibration">
+  <div class="pub-item" data-tags="first-author ccfa corea calibration" data-year="2024" data-preprint="0">
     A Benchmark Study on Calibration<br>
     <strong>Linwei Tao</strong>, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu.<br>
     ICLR, 2024.
@@ -170,7 +165,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     <a href="https://docs.google.com/presentation/d/1v7P53fuvA5Fx5k2pP9XoRxlI046btK8L/edit?usp=share_link&ouid=106551419724531857245&rtpof=true&sd=true">[Slides]</a>
   </div>
 
-  <div class="pub-item" data-tags="3dvision">
+  <div class="pub-item" data-tags="3dvision" data-year="2024" data-preprint="0">
     GraphFusion: Integrating Multi-Level Semantic Information with Graph Computing for Enhanced 3D Instance Segmentation<br>
     Lei Pan, Wuyang Luan, Yuan Zheng, Junhui Li, <strong>Linwei Tao</strong>, Chang Xu.<br>
     Neurocomputing, 2024.
@@ -178,15 +173,13 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     <a href="https://github.com/3171228612/GraphFusion">[Code]</a>
   </div>
 
-  <!-- 2024 Preprints -->
-  <div class="pub-item" data-tags="">
+  <div class="pub-item" data-tags="" data-year="2024" data-preprint="1">
     Visual Imitation Learning with Calibrated Contrastive Representation<br>
     Yunke Wang, <strong>Linwei Tao</strong>, Bo Du, Yutian Lin, Chang Xu.<br>
     Preprint, 2024. <a href="https://arxiv.org/pdf/2401.11396.pdf">[Paper]</a>
   </div>
 
-  <!-- 2023 Published -->
-  <div class="pub-item" data-tags="first-author ccfa corea calibration">
+  <div class="pub-item" data-tags="first-author ccfa corea calibration" data-year="2023" data-preprint="0">
     Dual Focal Loss for Calibration<br>
     <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
     ICML, 2023.
@@ -196,7 +189,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     <a href="https://drive.google.com/file/d/1ciWg70O3JSmUKU9wyMHANFL8Pfnx-HIP/view?usp=share_link">[Slides]</a>
   </div>
 
-  <div class="pub-item" data-tags="first-author ccfb corea calibration">
+  <div class="pub-item" data-tags="first-author ccfb corea calibration" data-year="2023" data-preprint="0">
     Calibrating a Deep Neural Network with Its Predecessors<br>
     <strong>Linwei Tao</strong>, Minjing Dong, Daochang Liu, Changming Sun, Chang Xu.<br>
     IJCAI, 2023.
@@ -212,21 +205,21 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 <script>
 (function() {
   var active = [];
-  window.pubToggle = function(btn) {
-    var f = btn.dataset.filter;
-    var group = btn.dataset.group;
-    var idx = active.indexOf(f);
-    if (group === 'topic') {
-      // single-select: deselect other topic buttons first
-      document.querySelectorAll('.pub-tag-btn[data-group="topic"]').forEach(function(b) {
-        if (b !== btn) { b.classList.remove('active'); active = active.filter(function(x) { return x !== b.dataset.filter; }); }
-      });
-      if (idx === -1) { active.push(f); btn.classList.add('active'); }
-      else { active.splice(active.indexOf(f), 1); btn.classList.remove('active'); }
-    } else {
-      if (idx === -1) { active.push(f); btn.classList.add('active'); }
-      else { active.splice(idx, 1); btn.classList.remove('active'); }
-    }
+
+  function sortPubs() {
+    var list = document.getElementById('pub-list');
+    if (!list) return;
+    var items = Array.from(list.querySelectorAll('.pub-item'));
+    items.sort(function(a, b) {
+      var yearA = parseInt(a.dataset.year) || 0;
+      var yearB = parseInt(b.dataset.year) || 0;
+      if (yearB !== yearA) return yearB - yearA;
+      return parseInt(a.dataset.preprint) - parseInt(b.dataset.preprint);
+    });
+    items.forEach(function(el) { list.appendChild(el); });
+  }
+
+  function applyFilter() {
     var items = document.querySelectorAll('.pub-item');
     var shown = 0;
     items.forEach(function(el) {
@@ -236,9 +229,29 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
       if (match) { el.classList.remove('hidden'); shown++; }
       else { el.classList.add('hidden'); }
     });
+    sortPubs();
     var noRes = document.getElementById('pub-no-results');
     if (noRes) noRes.style.display = shown === 0 ? 'block' : 'none';
+  }
+
+  window.pubToggle = function(btn) {
+    var f = btn.dataset.filter;
+    var group = btn.dataset.group;
+    var idx = active.indexOf(f);
+    if (group === 'topic') {
+      document.querySelectorAll('.pub-tag-btn[data-group="topic"]').forEach(function(b) {
+        if (b !== btn) { b.classList.remove('active'); active = active.filter(function(x) { return x !== b.dataset.filter; }); }
+      });
+      if (idx === -1) { active.push(f); btn.classList.add('active'); }
+      else { active.splice(active.indexOf(f), 1); btn.classList.remove('active'); }
+    } else {
+      if (idx === -1) { active.push(f); btn.classList.add('active'); }
+      else { active.splice(idx, 1); btn.classList.remove('active'); }
+    }
+    applyFilter();
   };
+
+  sortPubs();
 })();
 </script>
 
