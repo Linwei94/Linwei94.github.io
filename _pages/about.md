@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a>. Currenly, I am a Research Scientist Intern at [Google Research](https://research.google) Australia hosted by Prof. [Trevor Cohn](https://trevorcohn.github.io//) and Dr. [Hisham Husain](https://www.hishamhusain.com). I am honored to collaborate with Prof. [Philip Torr](https://www.robots.ox.ac.uk/~phst/) at Oxford, Dr. <a href="https://www.cs.cityu.edu.hk/~minjdong/">Minjing Dong</a> at CityU and Dr. <a href="https://taohuang.info">Tao Huang</a> at SJTU. I received my bachelor’s degree from HUST in 2017. My research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models. 
+Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a>. I am honored to collaborate with Prof. [Philip Torr](https://www.robots.ox.ac.uk/~phst/) at Oxford, Dr. <a href="https://www.cs.cityu.edu.hk/~minjdong/">Minjing Dong</a> at CityU and Dr. <a href="https://taohuang.info">Tao Huang</a> at SJTU. I received my bachelor’s degree from HUST in 2017. My research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models.
 <br>
 <br>
 <a href="https://scholar.google.com.au/citations?user=GeNHmf4AAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/Linwei94">Github</a> / <a href="/assets/CV.pdf" target="_blank">CV</a>
 
 # 🔥 News
+- *2026.02*: I completed my Research Scientist Internship at Google Research Australia!
 - *2025.11*: 🚀🚀 I start my journey at Google as a Research Scientist Intern!
 - *2025.06*: 🎉🎉 I’m honored to have been elected to the Student Committee of the AAAI 2026.
 - *2025.05*: 🎉🎉 One paper is accepted by **ICML 2025**.
