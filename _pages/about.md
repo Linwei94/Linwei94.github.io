@@ -61,10 +61,10 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     <button class="pub-tag-btn" data-filter="corea" onclick="pubToggle(this)">CORE A*</button>
   </div>
   <div class="pub-filters">
-    <button class="pub-tag-btn" data-filter="calibration" onclick="pubToggle(this)">Calibration</button>
-    <button class="pub-tag-btn" data-filter="llm" onclick="pubToggle(this)">LLM / LVLM</button>
-    <button class="pub-tag-btn" data-filter="diffusion" onclick="pubToggle(this)">Diffusion Models</button>
-    <button class="pub-tag-btn" data-filter="3dvision" onclick="pubToggle(this)">3D Vision</button>
+    <button class="pub-tag-btn" data-filter="calibration" data-group="topic" onclick="pubToggle(this)">Calibration</button>
+    <button class="pub-tag-btn" data-filter="llm" data-group="topic" onclick="pubToggle(this)">LLM / LVLM</button>
+    <button class="pub-tag-btn" data-filter="diffusion" data-group="topic" onclick="pubToggle(this)">Diffusion Models</button>
+    <button class="pub-tag-btn" data-filter="3dvision" data-group="topic" onclick="pubToggle(this)">3D Vision</button>
   </div>
 </div>
 
@@ -199,9 +199,19 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
   var active = [];
   window.pubToggle = function(btn) {
     var f = btn.dataset.filter;
+    var group = btn.dataset.group;
     var idx = active.indexOf(f);
-    if (idx === -1) { active.push(f); btn.classList.add('active'); }
-    else { active.splice(idx, 1); btn.classList.remove('active'); }
+    if (group === 'topic') {
+      // single-select: deselect other topic buttons first
+      document.querySelectorAll('.pub-tag-btn[data-group="topic"]').forEach(function(b) {
+        if (b !== btn) { b.classList.remove('active'); active = active.filter(function(x) { return x !== b.dataset.filter; }); }
+      });
+      if (idx === -1) { active.push(f); btn.classList.add('active'); }
+      else { active.splice(active.indexOf(f), 1); btn.classList.remove('active'); }
+    } else {
+      if (idx === -1) { active.push(f); btn.classList.add('active'); }
+      else { active.splice(idx, 1); btn.classList.remove('active'); }
+    }
     var items = document.querySelectorAll('.pub-item');
     var shown = 0;
     items.forEach(function(el) {
