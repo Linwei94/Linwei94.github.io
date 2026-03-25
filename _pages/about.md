@@ -26,7 +26,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 </div>
 
 # 🔥 News
-- *2026.02*: I completed my Research Scientist Internship at Google Research Australia!
+- *2026.02*: I completed my Research Scientist Internship at Google Research Australia! Great thanks to my mentors Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Dr. [Hisham Husain](https://www.hishamhusain.com).
 - *2025.11*: 🚀🚀 I start my journey at Google as a Research Scientist Intern!
 - *2025.06*: 🎉🎉 I’m honored to have been elected to the Student Committee of the AAAI 2026.
 - *2025.05*: 🎉🎉 One paper is accepted by **ICML 2025**.
