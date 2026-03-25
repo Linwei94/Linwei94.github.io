@@ -70,7 +70,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 
 <div id="pub-list">
 
-  <div class="pub-item" data-tags="corea calibration">
+  <div class="pub-item" data-tags="ccfa corea calibration">
     WATS: Wavelet-Aware Temperature Scaling for Reliable Graph Neural Networks<br>
     Xiaoyang Li, <strong>Linwei Tao</strong>, Haohui Lu, Minjing Dong, Junbin Gao, Chang Xu.<br>
     ICLR, 2026.
@@ -94,7 +94,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     WWW Workshop, 2025.
   </div>
 
-  <div class="pub-item" data-tags="corea diffusion">
+  <div class="pub-item" data-tags="ccfa corea diffusion">
     Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model<br>
     Jinxu Lin, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
     ICLR, 2025. <strong style="color:#d4534a">(Spotlight, 5.1% of 11,500 submissions)</strong>
@@ -117,7 +117,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     <a href="https://github.com/3171228612/GraphFusion">[Code]</a>
   </div>
 
-  <div class="pub-item" data-tags="first-author corea calibration">
+  <div class="pub-item" data-tags="first-author ccfa corea calibration">
     A Benchmark Study on Calibration<br>
     <strong>Linwei Tao</strong>, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu.<br>
     ICLR, 2024.
@@ -139,7 +139,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     <a href="https://drive.google.com/file/d/1ciWg70O3JSmUKU9wyMHANFL8Pfnx-HIP/view?usp=share_link">[Slides]</a>
   </div>
 
-  <div class="pub-item" data-tags="first-author ccfa corea calibration">
+  <div class="pub-item" data-tags="first-author corea calibration">
     Calibrating a Deep Neural Network with Its Predecessors<br>
     <strong>Linwei Tao</strong>, Minjing Dong, Daochang Liu, Changming Sun, Chang Xu.<br>
     IJCAI, 2023.
