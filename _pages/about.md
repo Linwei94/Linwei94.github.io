@@ -70,6 +70,12 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 
 <div id="pub-list">
 
+  <div class="pub-item" data-tags="corea calibration">
+    WATS: Wavelet-Aware Temperature Scaling for Reliable Graph Neural Networks<br>
+    Xiaoyang Li, <strong>Linwei Tao</strong>, Haohui Lu, Minjing Dong, Junbin Gao, Chang Xu.<br>
+    ICLR, 2026.
+  </div>
+
   <div class="pub-item" data-tags="ccfa corea calibration">
     Beyond One-Hot Labels: Semantic Mixing for Model Calibration<br>
     Haoyang Luo, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
@@ -143,6 +149,24 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     <a href="https://drive.google.com/file/d/1b_KyAVqdTd8Tx548_XI9PdaFh-A6vOWJ/view?usp=share_link">[Slides]</a>
   </div>
 
+  <div class="pub-item" data-tags="first-author llm calibration">
+    Can Large Language Models Express Uncertainty Like Human?<br>
+    <strong>Linwei Tao</strong>, Yi-Fan Yeh, Bo Kai, Minjing Dong, Tao Huang, Tom A. Lamb, Jialin Yu, Philip H.S. Torr, Chang Xu.<br>
+    Preprint, 2025. <a href="https://arxiv.org/abs/2509.24202">[Paper]</a>
+  </div>
+
+  <div class="pub-item" data-tags="first-author llm calibration">
+    Revisiting Uncertainty Estimation and Calibration of Large Language Models<br>
+    <strong>Linwei Tao</strong>, Yi-Fan Yeh, Minjing Dong, Tao Huang, Philip Torr, Chang Xu.<br>
+    Preprint, 2025. <a href="https://arxiv.org/abs/2505.23854">[Paper]</a>
+  </div>
+
+  <div class="pub-item" data-tags="calibration">
+    Sample Margin-Aware Recalibration of Temperature Scaling<br>
+    Haolan Guo, <strong>Linwei Tao</strong>, Haoyang Luo, Minjing Dong, Chang Xu.<br>
+    Preprint, 2025. <a href="https://arxiv.org/abs/2506.23492">[Paper]</a>
+  </div>
+
   <div class="pub-item" data-tags="llm calibration">
     Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration<br>
     Younan Zhu, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
@@ -153,6 +177,12 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors<br>
     <strong>Linwei Tao</strong>, Haolan Guo, Minjing Dong, Chang Xu.<br>
     Preprint, 2025. <a href="https://arxiv.org/pdf/2410.12295">[Paper]</a>
+  </div>
+
+  <div class="pub-item" data-tags="">
+    Task-Adaptive Continual Learning of Vision Language Models via Prototype Routing and Prompt<br>
+    Lei Pan, Z. Lu, Yuan Zheng, C. Yan, H. Wen, <strong>Linwei Tao</strong>, Chang Xu.<br>
+    Neurocomputing, 2026.
   </div>
 
   <div class="pub-item" data-tags="">
