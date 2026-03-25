@@ -58,9 +58,9 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
   <div class="pub-filters">
     <button class="pub-tag-btn" data-filter="first-author" onclick="pubToggle(this)">First Author</button>
     <span class="pub-sep"></span>
-    <button class="pub-tag-btn" data-filter="ccfa" onclick="pubToggle(this)">CCF-A</button>
-    <button class="pub-tag-btn" data-filter="ccfb" onclick="pubToggle(this)">CCF-B</button>
-    <button class="pub-tag-btn" data-filter="corea" onclick="pubToggle(this)">CORE A*</button>
+    <button class="pub-tag-btn" data-filter="ccfa" data-group="rank" onclick="pubToggle(this)">CCF-A</button>
+    <button class="pub-tag-btn" data-filter="ccfb" data-group="rank" onclick="pubToggle(this)">CCF-B</button>
+    <button class="pub-tag-btn" data-filter="corea" data-group="rank" onclick="pubToggle(this)">CORE A*</button>
   </div>
   <div class="pub-filters">
     <button class="pub-tag-btn" data-filter="calibration" data-group="topic" onclick="pubToggle(this)">Calibration</button>
@@ -221,13 +221,21 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
   }
 
   function applyFilter() {
+    // Split active filters into rank (OR logic) vs others (AND logic)
+    var rankFilters = [], otherFilters = [];
+    active.forEach(function(f) {
+      var btn = document.querySelector('.pub-tag-btn[data-filter="' + f + '"]');
+      if (btn && btn.dataset.group === 'rank') rankFilters.push(f);
+      else otherFilters.push(f);
+    });
     var items = document.querySelectorAll('.pub-item');
     var shown = 0;
     items.forEach(function(el) {
       if (active.length === 0) { el.classList.remove('hidden'); shown++; return; }
       var tags = (el.dataset.tags || '').split(' ').filter(Boolean);
-      var match = active.every(function(f) { return tags.indexOf(f) !== -1; });
-      if (match) { el.classList.remove('hidden'); shown++; }
+      var rankMatch = rankFilters.length === 0 || rankFilters.some(function(f) { return tags.indexOf(f) !== -1; });
+      var otherMatch = otherFilters.every(function(f) { return tags.indexOf(f) !== -1; });
+      if (rankMatch && otherMatch) { el.classList.remove('hidden'); shown++; }
       else { el.classList.add('hidden'); }
     });
     sortPubs();
