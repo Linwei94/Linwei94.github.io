@@ -32,73 +32,160 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 
 
 <span class='anchor' id='publications'></span>
-# 📝 Publications 
+# 📝 Publications
 
-- Beyond One-Hot Labels: Semantic Mixing for Model Calibration  
-  Haoyang Luo, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  ICML, 2025. 
+<style>
+.pub-filters { display: flex; gap: 0.45rem; flex-wrap: wrap; margin: 0.5rem 0 0; }
+.pub-filters + .pub-filters { margin-top: 0.45rem; }
+.pub-tag-btn {
+  padding: 0.2rem 0.65rem;
+  border: 1.5px solid #ddd; border-radius: 20px;
+  font-size: 0.72rem; cursor: pointer;
+  transition: all 0.15s; color: #888;
+  background: #fff; user-select: none;
+  font-family: inherit; outline: none; line-height: 1.6;
+}
+.pub-tag-btn.active { border-color: #c0392b; color: #c0392b; background: #fff5f4; }
+.pub-tag-btn:hover:not(.active) { border-color: #bbb; color: #555; }
+.pub-item { margin: 0 0 0.85rem; line-height: 1.6; }
+.pub-item.hidden { display: none; }
+#pub-no-results { color: #aaa; font-size: 0.85rem; margin: 1rem 0; display: none; }
+.pub-sep { width: 0; border-left: 1.5px solid #e5e5e5; margin: 0 0.15rem; display: inline-block; height: 1.2em; vertical-align: middle; }
+</style>
 
-- Uncertainty Weighted Gradients for Model Calibration  
-  Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  CVPR, 2025.
+<div id="pub-filter-bar" style="margin-bottom:1.3rem;">
+  <div class="pub-filters">
+    <button class="pub-tag-btn" data-filter="first-author" onclick="pubToggle(this)">First Author</button>
+    <span class="pub-sep"></span>
+    <button class="pub-tag-btn" data-filter="ccfa" onclick="pubToggle(this)">CCF-A</button>
+    <button class="pub-tag-btn" data-filter="corea" onclick="pubToggle(this)">CORE A*</button>
+  </div>
+  <div class="pub-filters">
+    <button class="pub-tag-btn" data-filter="calibration" onclick="pubToggle(this)">Calibration</button>
+    <button class="pub-tag-btn" data-filter="llm" onclick="pubToggle(this)">LLM / LVLM</button>
+    <button class="pub-tag-btn" data-filter="diffusion" onclick="pubToggle(this)">Diffusion Models</button>
+    <button class="pub-tag-btn" data-filter="3dvision" onclick="pubToggle(this)">3D Vision</button>
+  </div>
+</div>
 
-- KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models  
-  Yingqing Yuan, **Linwei Tao**, Haohui Lu, Matloob Khushi, Imran Razzak, Mark Dras,Jian Yang, Usman Naseem.  
-  WWW Workshop, 2025. 
+<div id="pub-list">
 
-- Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model  
-  Jinxu Lin, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  ICLR, 2025.  <strong style="color:#d4534a">(Spotlight, 5.1% of 11,500 submissions)</strong> [[Paper]](https://arxiv.org/pdf/2410.18639)
+  <div class="pub-item" data-tags="ccfa corea calibration">
+    Beyond One-Hot Labels: Semantic Mixing for Model Calibration<br>
+    Haoyang Luo, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
+    ICML, 2025.
+  </div>
 
-- Feature Clipping for Uncertainty Calibration  
-  **Linwei Tao**, Minjing Dong, Chang Xu.  
-  AAAI, 2025.
-  [[Paper]](https://arxiv.org/pdf/2410.19796)
-  [[Code]](https://github.com/Linwei94/AAAI2025-FeatureClipping.git)
+  <div class="pub-item" data-tags="ccfa corea calibration">
+    Uncertainty Weighted Gradients for Model Calibration<br>
+    Jinxu Lin, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
+    CVPR, 2025.
+  </div>
 
-- GraphFusion: Integrating Multi-Level Semantic Information with Graph Computing forEnhanced 3D Instance Segmentation  
-  Lei Pan, Wuyang Luan, Yuan Zheng, Junhui Li, **Linwei Tao**, Chang Xu.  
-  Neurocomputing, 2024.
-  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231224010580?via%3Dihub)
-  [[Code]](https://github.com/3171228612/GraphFusion)
+  <div class="pub-item" data-tags="llm">
+    KG-UQ: Knowledge Graph-Based Uncertainty Quantification for Long Text in Large Language Models<br>
+    Yingqing Yuan, <strong>Linwei Tao</strong>, Haohui Lu, Matloob Khushi, Imran Razzak, Mark Dras, Jian Yang, Usman Naseem.<br>
+    WWW Workshop, 2025.
+  </div>
 
-- A Benchmark Study on Calibration  
-  **Linwei Tao**, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu.  
-  ICLR, 2024.
-[[Paper]](https://openreview.net/pdf?id=GzNhzX9kVa)
-[[Dataset]](https://github.com/Linwei94/calibration-study)
-[[Code]](https://github.com/Linwei94/calibration-study/tree/main/plotting)
-[[Project Page]](https://www.taolinwei.com/calibration-study/)
-[[Poster]](https://iclr.cc/media/PosterPDFs/ICLR%202024/19011.png?t=1713511392.4471395)
-[[Slides]](https://docs.google.com/presentation/d/1v7P53fuvA5Fx5k2pP9XoRxlI046btK8L/edit?usp=share_link&ouid=106551419724531857245&rtpof=true&sd=true)
+  <div class="pub-item" data-tags="corea diffusion">
+    Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model<br>
+    Jinxu Lin, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
+    ICLR, 2025. <strong style="color:#d4534a">(Spotlight, 5.1% of 11,500 submissions)</strong>
+    <a href="https://arxiv.org/pdf/2410.18639">[Paper]</a>
+  </div>
 
-- Dual Focal Loss for Calibration  
-  **Linwei Tao**, Minjing Dong, Chang Xu.  
-  ICML, 2023.
-[[Paper]](https://proceedings.mlr.press/v202/tao23a/tao23a.pdf)
-[[Code]](https://github.com/Linwei94/DualFocalLoss)
-[[Poster]](https://icml.cc/media/PosterPDFs/ICML%202023/24955.png?t=1687073089.4563115)
-[[Slides]](https://drive.google.com/file/d/1ciWg70O3JSmUKU9wyMHANFL8Pfnx-HIP/view?usp=share_link)
+  <div class="pub-item" data-tags="first-author ccfa corea calibration">
+    Feature Clipping for Uncertainty Calibration<br>
+    <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
+    AAAI, 2025.
+    <a href="https://arxiv.org/pdf/2410.19796">[Paper]</a>
+    <a href="https://github.com/Linwei94/AAAI2025-FeatureClipping.git">[Code]</a>
+  </div>
 
-- Calibrating a Deep Neural Network with Its Predecessors  
-  **Linwei Tao**, Minjing Dong, Daochang Liu, Changming Sun, Chang Xu.  
-  IJCAI, 2023.
-[[Paper]](https://www.ijcai.org/proceedings/2023/0475.pdf)
-[[Code]](https://github.com/Linwei94/PCS)
-[[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
-[[Slides]](https://drive.google.com/file/d/1b_KyAVqdTd8Tx548_XI9PdaFh-A6vOWJ/view?usp=share_link)
+  <div class="pub-item" data-tags="3dvision">
+    GraphFusion: Integrating Multi-Level Semantic Information with Graph Computing for Enhanced 3D Instance Segmentation<br>
+    Lei Pan, Wuyang Luan, Yuan Zheng, Junhui Li, <strong>Linwei Tao</strong>, Chang Xu.<br>
+    Neurocomputing, 2024.
+    <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010580?via%3Dihub">[Paper]</a>
+    <a href="https://github.com/3171228612/GraphFusion">[Code]</a>
+  </div>
 
-- Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration  
-  Younan Zhu, **Linwei Tao**, Minjing Dong, Chang Xu.  
-  Preprint, 2025. [[Paper]](https://arxiv.org/pdf/2502.01969)
+  <div class="pub-item" data-tags="first-author corea calibration">
+    A Benchmark Study on Calibration<br>
+    <strong>Linwei Tao</strong>, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu.<br>
+    ICLR, 2024.
+    <a href="https://openreview.net/pdf?id=GzNhzX9kVa">[Paper]</a>
+    <a href="https://github.com/Linwei94/calibration-study">[Dataset]</a>
+    <a href="https://github.com/Linwei94/calibration-study/tree/main/plotting">[Code]</a>
+    <a href="https://www.taolinwei.com/calibration-study/">[Project Page]</a>
+    <a href="https://iclr.cc/media/PosterPDFs/ICLR%202024/19011.png?t=1713511392.4471395">[Poster]</a>
+    <a href="https://docs.google.com/presentation/d/1v7P53fuvA5Fx5k2pP9XoRxlI046btK8L/edit?usp=share_link&ouid=106551419724531857245&rtpof=true&sd=true">[Slides]</a>
+  </div>
 
-- Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors  
-  **Linwei Tao**, Haolan Guo, Minjing Dong, Chang Xu.  
-  Preprint, 2025. [[Paper]](https://arxiv.org/pdf/2410.12295)
+  <div class="pub-item" data-tags="first-author ccfa corea calibration">
+    Dual Focal Loss for Calibration<br>
+    <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
+    ICML, 2023.
+    <a href="https://proceedings.mlr.press/v202/tao23a/tao23a.pdf">[Paper]</a>
+    <a href="https://github.com/Linwei94/DualFocalLoss">[Code]</a>
+    <a href="https://icml.cc/media/PosterPDFs/ICML%202023/24955.png?t=1687073089.4563115">[Poster]</a>
+    <a href="https://drive.google.com/file/d/1ciWg70O3JSmUKU9wyMHANFL8Pfnx-HIP/view?usp=share_link">[Slides]</a>
+  </div>
 
-- Visual Imitation Learning with Calibrated Contrastive Representation  
-  Yunke Wang, **Linwei Tao**, Bo Du, Yutian Lin, Chang Xu.  
-  Preprint, 2024. [[Paper]](https://arxiv.org/pdf/2401.11396.pdf)
+  <div class="pub-item" data-tags="first-author ccfa corea calibration">
+    Calibrating a Deep Neural Network with Its Predecessors<br>
+    <strong>Linwei Tao</strong>, Minjing Dong, Daochang Liu, Changming Sun, Chang Xu.<br>
+    IJCAI, 2023.
+    <a href="https://www.ijcai.org/proceedings/2023/0475.pdf">[Paper]</a>
+    <a href="https://github.com/Linwei94/PCS">[Code]</a>
+    <a href="https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing">[Playground]</a>
+    <a href="https://drive.google.com/file/d/1b_KyAVqdTd8Tx548_XI9PdaFh-A6vOWJ/view?usp=share_link">[Slides]</a>
+  </div>
+
+  <div class="pub-item" data-tags="llm calibration">
+    Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration<br>
+    Younan Zhu, <strong>Linwei Tao</strong>, Minjing Dong, Chang Xu.<br>
+    Preprint, 2025. <a href="https://arxiv.org/pdf/2502.01969">[Paper]</a>
+  </div>
+
+  <div class="pub-item" data-tags="first-author calibration">
+    Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors<br>
+    <strong>Linwei Tao</strong>, Haolan Guo, Minjing Dong, Chang Xu.<br>
+    Preprint, 2025. <a href="https://arxiv.org/pdf/2410.12295">[Paper]</a>
+  </div>
+
+  <div class="pub-item" data-tags="">
+    Visual Imitation Learning with Calibrated Contrastive Representation<br>
+    Yunke Wang, <strong>Linwei Tao</strong>, Bo Du, Yutian Lin, Chang Xu.<br>
+    Preprint, 2024. <a href="https://arxiv.org/pdf/2401.11396.pdf">[Paper]</a>
+  </div>
+
+</div>
+<p id="pub-no-results">No matching publications.</p>
+
+<script>
+(function() {
+  var active = [];
+  window.pubToggle = function(btn) {
+    var f = btn.dataset.filter;
+    var idx = active.indexOf(f);
+    if (idx === -1) { active.push(f); btn.classList.add('active'); }
+    else { active.splice(idx, 1); btn.classList.remove('active'); }
+    var items = document.querySelectorAll('.pub-item');
+    var shown = 0;
+    items.forEach(function(el) {
+      if (active.length === 0) { el.classList.remove('hidden'); shown++; return; }
+      var tags = (el.dataset.tags || '').split(' ').filter(Boolean);
+      var match = active.every(function(f) { return tags.indexOf(f) !== -1; });
+      if (match) { el.classList.remove('hidden'); shown++; }
+      else { el.classList.add('hidden'); }
+    });
+    var noRes = document.getElementById('pub-no-results');
+    if (noRes) noRes.style.display = shown === 0 ? 'block' : 'none';
+  };
+})();
+</script>
 
 
 
