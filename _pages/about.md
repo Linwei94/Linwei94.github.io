@@ -70,6 +70,12 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 
 <div id="pub-list">
 
+  <div class="pub-item" data-tags="first-author calibration">
+    Confidence Calibration under Ambiguous Ground Truth<br>
+    <strong>Linwei Tao</strong>, Haoyang Luo, Minjing Dong, Chang Xu.<br>
+    Preprint, 2026. <a href="https://arxiv.org/abs/2603.22879">[Paper]</a>
+  </div>
+
   <div class="pub-item" data-tags="ccfa corea calibration">
     WATS: Wavelet-Aware Temperature Scaling for Reliable Graph Neural Networks<br>
     Xiaoyang Li, <strong>Linwei Tao</strong>, Haohui Lu, Minjing Dong, Junbin Gao, Chang Xu.<br>
