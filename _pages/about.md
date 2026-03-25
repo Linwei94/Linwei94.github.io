@@ -58,6 +58,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     <button class="pub-tag-btn" data-filter="first-author" onclick="pubToggle(this)">First Author</button>
     <span class="pub-sep"></span>
     <button class="pub-tag-btn" data-filter="ccfa" onclick="pubToggle(this)">CCF-A</button>
+    <button class="pub-tag-btn" data-filter="ccfb" onclick="pubToggle(this)">CCF-B</button>
     <button class="pub-tag-btn" data-filter="corea" onclick="pubToggle(this)">CORE A*</button>
   </div>
   <div class="pub-filters">
@@ -195,7 +196,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
     <a href="https://drive.google.com/file/d/1ciWg70O3JSmUKU9wyMHANFL8Pfnx-HIP/view?usp=share_link">[Slides]</a>
   </div>
 
-  <div class="pub-item" data-tags="first-author corea calibration">
+  <div class="pub-item" data-tags="first-author ccfb corea calibration">
     Calibrating a Deep Neural Network with Its Predecessors<br>
     <strong>Linwei Tao</strong>, Minjing Dong, Daochang Liu, Changming Sun, Chang Xu.<br>
     IJCAI, 2023.
