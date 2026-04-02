@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a>. I am honored to collaborate with Dr. <a href="https://www.cs.cityu.edu.hk/~minjdong/">Minjing Dong</a> at CityU and Dr. <a href="https://taohuang.info">Tao Huang</a> at SJTU. I received my bachelor’s degree from HUST in 2017. My research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models.
+Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a>. I am honored to collaborate with Prof. [Philip Torr](https://www.robots.ox.ac.uk/~phst/) at Oxford, Dr. <a href="https://www.cs.cityu.edu.hk/~minjdong/">Minjing Dong</a> at CityU and Dr. <a href="https://taohuang.info">Tao Huang</a> at SJTU. I received my bachelor’s degree from HUST in 2017. My research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models.
 
 {% include profile-links.html %}
 
