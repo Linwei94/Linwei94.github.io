@@ -75,6 +75,13 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 - *2014.06*, Science and Technology Scholarship, Huazhong University of Science and Technology
 
 
+<span class='anchor' id='open-source'></span>
+# 🛠️ Open Source Tools
+
+**[DeHallucinate Reference Checker](https://github.com/Linwei94/bib-checker)** &nbsp;·&nbsp; [🌐 Website](https://linwei94.github.io/bib-checker/) &nbsp;·&nbsp; [⬇ Install](https://github.com/Linwei94/bib-checker/archive/refs/heads/main.zip)
+
+A Chrome extension that catches AI-hallucinated references in your BibTeX. LLMs frequently fabricate paper titles, authors, and venues that look real but don't exist on Google Scholar — and top venues (ICML, ICLR, NeurIPS) now check. DeHallucinate batch-fetches your entire `.bib` against Google Scholar and shows a field-by-field diff with word-level highlights, so you can fix fake citations before submission.
+
 <span class='anchor' id='academic-service'></span>
 # 💻 Academic Service
 
