@@ -63,7 +63,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 - *2014.06 - 2014.09*, Frontend developer Intern, Sunallies.com
 
 <span class='anchor' id='honors-awards'></span>
-# 🎖 Honors and Awards
+# 🎖 Honors and Grants
 
 <!--- - *2026.03*, [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026), Apple --->
 - *2026.04*, SUPRA Social Impact Grant (for Sydney AI Center project), University of Sydney
