@@ -66,6 +66,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 # 🎖 Honors and Grants
 
 <!--- - *2026.03*, [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026), Apple --->
+- *2026.04*, Cohere Labs Catalyst Grant ($1,000 USD), Cohere Labs
 - *2026.04*, SUPRA Social Impact Grant, University of Sydney
 - *2025.12*, FFT Student Survey Award for Outstanding Achievement in BUSS6002, University of Sydney Business School
 - *2025.06*, Faculty of Engineering HDR Grant, University of Sydney
