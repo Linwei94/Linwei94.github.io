@@ -66,7 +66,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 # 🎖 Honors and Grants
 
 <!--- - *2026.03*, [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026), Apple --->
-- *2026.04*, SUPRA Social Impact Grant (for Sydney AI Center project), University of Sydney
+- *2026.04*, SUPRA Social Impact Grant, University of Sydney
 - *2025.12*, FFT Student Survey Award for Outstanding Achievement in BUSS6002, University of Sydney Business School
 - *2025.06*, Student Committee of the AAAI 2026 (1 of 3 in the world)
 - *2024.05*, Google Cloud Research Credits Award ($2340 AUD)
