@@ -69,8 +69,8 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 - *2026.04*, SUPRA Social Impact Grant, University of Sydney
 - *2025.12*, FFT Student Survey Award for Outstanding Achievement in BUSS6002, University of Sydney Business School
 - *2025.06*, Faculty of Engineering HDR Grant, University of Sydney
-- *2025.06*, Student Committee of the AAAI 2026 (1 of 3 in the world)
-- *2024.05*, Google Cloud Research Credits Award ($2340 AUD)
+- *2025.06*, Student Committee of the AAAI 2026 (1 of 3 in the world), AAAI
+- *2024.05*, Google Cloud Research Credits Award ($2340 AUD), Google Cloud
 - *2023.06*, International Tuition Fee Scholarship, University of Sydney 
 - *2023.05*, Faculty of Engineering Research Support Scholarship, University of Sydney 
 - *2015.09*, Excellent Student Cadre, Huazhong University of Science and Technology
