@@ -22,6 +22,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 {% include profile-links.html %}
 
 # 🔥 News
+- *2026.04*: 🎉🎉 I'm honored to receive the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) from Apple, in the area of AI for Ethics and Fairness!
 - *2026.02*: I completed my Research Scientist Internship at Google Research Australia! Great thanks to my mentors Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Dr. [Hisham Husain](https://www.hishamhusain.com).
 - *2026.01*: 🎉🎉 One paper is accepted by **ICLR 2026** — WATS: Wavelet-Aware Temperature Scaling for Reliable Graph Neural Networks.
 - *2025.11*: 🚀🚀 I start my journey at Google as a Research Scientist Intern!
@@ -65,7 +66,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Grants
 
-<!--- - *2026.03*, [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026), Apple --->
+- *2026.04*, Apple Scholars in AI/ML PhD Fellowship, Apple \[[Link](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)\]
 - *2026.04*, Cohere Labs Catalyst Grant ($1,000 USD), Cohere Labs
 - *2026.04*, SUPRA Social Impact Grant ($1,000 AUD), University of Sydney
 - *2025.12*, FFT Student Survey Award for Outstanding Achievement in BUSS6002, University of Sydney Business School
