@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a>. I am honored to collaborate with Prof. [Philip Torr](https://www.robots.ox.ac.uk/~phst/) at Oxford, Dr. <a href="https://www.cs.cityu.edu.hk/~minjdong/">Minjing Dong</a> at CityU and Dr. <a href="https://taohuang.info">Tao Huang</a> at SJTU. I received my bachelor’s degree from HUST in 2017. I am a recipient of the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) (20 selected worldwide, first from Australia). My research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models.
+Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a>. I am honored to collaborate with Prof. [Philip Torr](https://www.robots.ox.ac.uk/~phst/) at Oxford, Dr. <a href="https://www.cs.cityu.edu.hk/~minjdong/">Minjing Dong</a> at CityU and Dr. <a href="https://taohuang.info">Tao Huang</a> at SJTU. I received my bachelor’s degree from HUST in 2017. I am a recipient of the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) (20 selected worldwide, first Australian recipient). My research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models.
 
 {% include profile-links.html %}
 
 # 🔥 News
-- *2026.04*: 🎉🎉 I'm honored to receive the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) from Apple (20 selected worldwide, first from Australia), in the area of AI for Ethics and Fairness!
+- *2026.04*: 🎉🎉 I'm honored to receive the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) from Apple (20 selected worldwide, first Australian recipient), in the area of AI for Ethics and Fairness!
 - *2026.02*: I completed my Research Scientist Internship at Google Research Australia! Great thanks to my mentors Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Dr. [Hisham Husain](https://www.hishamhusain.com).
 - *2026.01*: 🎉🎉 One paper is accepted by **ICLR 2026** — WATS: Wavelet-Aware Temperature Scaling for Reliable Graph Neural Networks.
 - *2025.11*: 🚀🚀 I start my journey at Google as a Research Scientist Intern!
@@ -66,7 +66,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Grants
 
-- *2026.04*, Apple Scholars in AI/ML PhD Fellowship (20 selected worldwide, first from Australia), Apple \[[Link](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)\]
+- *2026.04*, Apple Scholars in AI/ML PhD Fellowship (20 selected worldwide, first Australian recipient), Apple \[[Link](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)\]
 - *2026.04*, Cohere Labs Catalyst Grant ($1,000 USD), Cohere Labs
 - *2026.04*, SUPRA Social Impact Grant ($1,000 AUD), University of Sydney
 - *2025.12*, FFT Student Survey Award for Outstanding Achievement in BUSS6002, University of Sydney Business School
