@@ -22,6 +22,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 {% include profile-links.html %}
 
 # 🔥 News
+- *2026.05*: 🎉🎉 One paper is accepted by **ICML 2026** — Sample Margin-Aware Recalibration of Temperature Scaling.
 - *2026.04*: 🎉🎉 I'm honored to receive the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) from Apple (20 selected worldwide, first Australian recipient), in the area of AI for Ethics and Fairness!
 - *2026.02*: I completed my Research Scientist Internship at Google Research Australia! Great thanks to my mentors Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Dr. [Hisham Husain](https://www.hishamhusain.com).
 - *2026.01*: 🎉🎉 One paper is accepted by **ICLR 2026** — WATS: Wavelet-Aware Temperature Scaling for Reliable Graph Neural Networks.
