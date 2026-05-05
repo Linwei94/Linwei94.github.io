@@ -67,6 +67,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Grants
 
+- *2026.05*, Lambda Research Grant ($2,000 USD), Lambda
 - *2026.04*, Apple Scholars in AI/ML PhD Fellowship (20 selected worldwide, first Australian recipient), Apple \[[Link](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)\]
 - *2026.04*, Cohere Labs Catalyst Grant ($1,000 USD), Cohere Labs
 - *2026.04*, SUPRA Social Impact Grant ($1,000 AUD), University of Sydney
