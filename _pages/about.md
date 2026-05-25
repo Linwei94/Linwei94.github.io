@@ -22,6 +22,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 {% include profile-links.html %}
 
 # 🔥 News
+- *2026.05*: 🚀🚀 I'm starting my Research Internship at **Apple Research**, Cambridge, UK!
 - *2026.05*: 🎉🎉 One paper is accepted by **ICML 2026** — Sample Margin-Aware Recalibration of Temperature Scaling.
 - *2026.04*: 🎉🎉 I'm honored to receive the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) from Apple (20 selected worldwide, first Australian recipient), in the area of AI for Ethics and Fairness!
 - *2026.02*: I completed my Research Scientist Internship at Google Research Australia! Great thanks to my mentors Prof. [Trevor Cohn](https://trevorcohn.github.io/) and Dr. [Hisham Husain](https://www.hishamhusain.com).
@@ -60,6 +61,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 <span class='anchor' id='internship'></span>
 # 💼 Internship
 
+- *2026.05 - 2026.09*, Research Intern, Apple Research, Cambridge, UK
 - *2025.11 - 2026.02*, Research Scientist Intern, Google Research Australia
 - *2015.06 - 2015.09*, IOS developer Intern, Ctrip.com
 - *2014.06 - 2014.09*, Frontend developer Intern, Sunallies.com
