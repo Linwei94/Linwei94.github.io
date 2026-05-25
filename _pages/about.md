@@ -61,7 +61,7 @@ Hi there! I am a Ph.D. student at the University of Sydney, supervised by A/Prof
 <span class='anchor' id='internship'></span>
 # 💼 Internship
 
-- *2026.05 - 2026.09*, Research Intern, Apple Research, Cambridge, UK
+- *2026.05 - 2026.10*, Research Intern, Apple Research, Cambridge, UK
 - *2025.11 - 2026.02*, Research Scientist Intern, Google Research Australia
 - *2015.06 - 2015.09*, IOS developer Intern, Ctrip.com
 - *2014.06 - 2014.09*, Frontend developer Intern, Sunallies.com
