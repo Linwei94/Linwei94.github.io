@@ -7,10 +7,12 @@ cd "$(dirname "$0")"
 
 xelatex -interaction=nonstopmode main.tex
 
-cp main.pdf ../assets/CV.pdf
+DATE=$(date +"%Y.%m.%d")
+OUTPUT="../assets/CV - Linwei Tao - ${DATE}.pdf"
+cp main.pdf "${OUTPUT}"
 
 # Clean up auxiliary files
 rm -f main.aux main.log main.out main.fls main.fdb_latexmk
 
-echo "Done. assets/CV.pdf updated."
-echo "Now run: git add ../assets/CV.pdf && git commit -m 'update CV' && git push"
+echo "Done. ${OUTPUT} updated."
+echo "Now run: git add \"${OUTPUT}\" && git commit -m 'update CV' && git push"
