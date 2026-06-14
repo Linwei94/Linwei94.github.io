@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am currently a Research Intern at **Apple Machine Learning Research (MLR)**, Cambridge, UK, and previously interned as a Research Scientist Intern at **Google Research Australia** in Sydney. I am a Ph.D. student at the University of Sydney, supervised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a>. I am honored to collaborate with Prof. [Philip Torr](https://www.robots.ox.ac.uk/~phst/) at Oxford, Dr. <a href="https://www.cs.cityu.edu.hk/~minjdong/">Minjing Dong</a> at CityU and Dr. <a href="https://taohuang.info">Tao Huang</a> at SJTU. I received my bachelor’s degree from HUST in 2017. I am a recipient of the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) (20 selected worldwide, first Australian recipient). My research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models.
+Hi there! I am a Research Intern at **Apple Machine Learning Research (MLR)**, Cambridge, UK, working with [Adam Goliński](http://adamgol.me), and previously interned at **Google Research Australia** in Sydney, working with [Hisham Husain](https://scholar.google.com/citations?user=bwq3crYAAAAJ&hl=en). I am a Ph.D. student at the University of Sydney, advised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a>, and a recipient of the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) (20 selected worldwide, first Australian recipient). My research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models.
 
 {% include profile-links.html %}
 
