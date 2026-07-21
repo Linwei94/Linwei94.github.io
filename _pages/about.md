@@ -69,15 +69,9 @@ Hi there! I am a Research Intern at **Apple Machine Learning Research (MLR)**, C
 <span class='anchor' id='honors-awards'></span>
 # 🎖 Honors and Grants
 
-- *2026.05*, Modal for Academics Compute Grant ($2,000 USD), Modal
-- *2026.05*, Lambda Research Grant ($2,000 USD), Lambda
 - *2026.04*, Apple Scholars in AI/ML PhD Fellowship (20 selected worldwide, first Australian recipient), Apple \[[Link](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)\]
-- *2026.04*, Cohere Labs Catalyst Grant ($1,000 USD), Cohere Labs
-- *2026.04*, SUPRA Social Impact Grant ($1,000 AUD), University of Sydney
 - *2025.12*, FFT Student Survey Award for Outstanding Achievement in BUSS6002, University of Sydney Business School
-- *2025.06*, Faculty of Engineering HDR Grant ($1,000 AUD), University of Sydney
 - *2025.06*, AAAI 2026 Student Program Committee (3 selected worldwide), AAAI
-- *2024.05*, Google Cloud Research Credits Award ($2340 AUD), Google Cloud
 - *2023.06*, International Tuition Fee Scholarship, University of Sydney 
 - *2023.05*, Faculty of Engineering Research Support Scholarship, University of Sydney 
 - *2015.09*, Excellent Student Cadre, Huazhong University of Science and Technology
