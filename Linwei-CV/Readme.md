@@ -41,14 +41,25 @@ Swap candidate: *Feature Clipping for Uncertainty Calibration* (AAAI 2025,
 first author, representation-level) if a published venue is preferred over the
 attention preprint.
 
-**`main-agent-rl.tex`** — agent RL team (JD not yet supplied):
+**`main-agent-rl.tex`** — Apple AIML Foundation Models Zurich, ML Research
+Engineer, RL & Agentic Reasoning (role 200617882-4170). JD asks for RL
+post-training of LLMs, agentic tool use and planning, reward models /
+evaluators / datasets / simulation environments, hallucination reduction and
+instruction following:
 
 1. *Revisiting Uncertainty Estimation and Calibration of LLMs* (NeurIPS 2025
-   Scaling Environments for Agents workshop).
-2. *Can LLMs Express Uncertainty Like Human?* (first author, with P. Torr).
-3. *Diffusion Attribution Score* (ICLR 2025 Spotlight).
-4. *A Benchmark Study on Calibration* (ICLR 2024).
+   Scaling Environments for Agents workshop) — LLM reliability evaluated at scale.
+2. *Can LLMs Express Uncertainty Like Human?* (first author, with P. Torr) —
+   verbalized uncertainty and instruction following.
+3. *Attention Calibration for Reducing Hallucination in LVLMs* — the JD's
+   hallucination-reduction bullet.
+4. *A Benchmark Study on Calibration* (ICLR 2024) — large-scale evaluation
+   framework across models.
 
-Swap candidate: *Visual Imitation Learning with Calibrated Contrastive
-Representation* if explicit RL / imitation-learning vocabulary matters more
-than venue.
+Swap candidates: *Diffusion Attribution Score* (ICLR 2025 Spotlight) if venue
+prestige and the data-curation angle matter more; *Visual Imitation Learning
+with Calibrated Contrastive Representation* if explicit RL / imitation-learning
+vocabulary matters more.
+
+The strongest RL signal for this role is the Apple MLR internship entry under
+Experiences, not the publication list.
