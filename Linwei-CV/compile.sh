@@ -1,18 +1,29 @@
 #!/bin/bash
-# Compile CV and output to assets/CV.pdf
-# Run from Linwei-CV/ directory: bash compile.sh
+# Compile a CV variant and output to assets/
+#   bash compile.sh                 -> main.tex           -> "CV - Linwei Tao - DATE.pdf"
+#   bash compile.sh main-selected   -> main-selected.tex  -> "CV - Linwei Tao (Selected) - DATE.pdf"
+# Run from anywhere; the script cd's to its own directory.
 
 set -e
 cd "$(dirname "$0")"
 
-xelatex -interaction=nonstopmode main.tex
+TEX="${1:-main}"
+TEX="${TEX%.tex}"
+
+xelatex -interaction=nonstopmode "${TEX}.tex"
+
+case "${TEX}" in
+  main)          LABEL="CV - Linwei Tao" ;;
+  main-selected) LABEL="CV - Linwei Tao (Selected)" ;;
+  *)             LABEL="CV - Linwei Tao (${TEX})" ;;
+esac
 
 DATE=$(date +"%Y.%m.%d")
-OUTPUT="../assets/CV - Linwei Tao - ${DATE}.pdf"
-cp main.pdf "${OUTPUT}"
+OUTPUT="../assets/${LABEL} - ${DATE}.pdf"
+cp "${TEX}.pdf" "${OUTPUT}"
 
 # Clean up auxiliary files
-rm -f main.aux main.log main.out main.fls main.fdb_latexmk
+rm -f "${TEX}.aux" "${TEX}.log" "${TEX}.out" "${TEX}.fls" "${TEX}.fdb_latexmk"
 
 echo "Done. ${OUTPUT} updated."
 echo "Now run: git add \"${OUTPUT}\" && git commit -m 'update CV' && git push"
