@@ -1,7 +1,8 @@
 #!/bin/bash
 # Compile a CV variant and output to assets/
 #   bash compile.sh                 -> main.tex           -> "CV - Linwei Tao - DATE.pdf"
-#   bash compile.sh main-selected   -> main-selected.tex  -> "CV - Linwei Tao (Selected) - DATE.pdf"
+#   bash compile.sh main-agent-rl     -> "CV - Linwei Tao (Agent RL) - DATE.pdf"
+#   bash compile.sh main-architecture -> "CV - Linwei Tao (Architecture) - DATE.pdf"
 # Run from anywhere; the script cd's to its own directory.
 
 set -e
@@ -13,9 +14,10 @@ TEX="${TEX%.tex}"
 xelatex -interaction=nonstopmode "${TEX}.tex"
 
 case "${TEX}" in
-  main)          LABEL="CV - Linwei Tao" ;;
-  main-selected) LABEL="CV - Linwei Tao (Selected)" ;;
-  *)             LABEL="CV - Linwei Tao (${TEX})" ;;
+  main)              LABEL="CV - Linwei Tao" ;;
+  main-agent-rl)     LABEL="CV - Linwei Tao (Agent RL)" ;;
+  main-architecture) LABEL="CV - Linwei Tao (Architecture)" ;;
+  *)                 LABEL="CV - Linwei Tao (${TEX})" ;;
 esac
 
 DATE=$(date +"%Y.%m.%d")
