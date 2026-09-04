@@ -7,10 +7,10 @@
 | `main-architecture.tex` | architecture team | `assets/CV - Linwei Tao (Architecture) - DATE.pdf` |
 
 The two variants are copies of `main.tex` with a **Selected Publications**
-section placed before *Awards and Grants*. Entries promoted into that section
-are removed from the remaining *Other Publications* / *Preprints* lists so
-nothing appears twice. Edit the selected list by hand — it is plain `\item`
-lines, no generation step.
+section placed before *Awards and Grants*. The later *Publications* and
+*Preprints* sections stay complete — every paper is listed there as well, so a
+selected entry deliberately appears twice. Edit the selected list by hand — it
+is plain `\item` lines, no generation step.
 
 Compile with:
 
