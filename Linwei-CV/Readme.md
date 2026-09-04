@@ -2,9 +2,9 @@
 
 | File | Target | Output |
 | --- | --- | --- |
-| `main.tex` | general / website | `assets/CV - Linwei Tao - DATE.pdf` |
-| `main-agent-rl.tex` | agent RL team | `assets/CV - Linwei Tao (Agent RL) - DATE.pdf` |
-| `main-architecture.tex` | architecture team | `assets/CV - Linwei Tao (Architecture) - DATE.pdf` |
+| `main.tex` | general | `build/CV - Linwei Tao - DATE.pdf` |
+| `main-agent-rl.tex` | agent RL team, and the website | `build/CV - Linwei Tao (Agent RL) - DATE.pdf` + `assets/CV - Linwei Tao - DATE.pdf` |
+| `main-architecture.tex` | architecture team | `build/CV - Linwei Tao (Architecture) - DATE.pdf` |
 
 The two variants are copies of `main.tex` with a **Selected Publications**
 section placed before *Awards and Grants*. The later *Publications* and
@@ -15,7 +15,7 @@ is plain `\item` lines, no generation step.
 Compile with:
 
 ```bash
-bash compile.sh                    # main.tex          -> assets/
+bash compile.sh                    # main.tex          -> build/
 bash compile.sh main-agent-rl      # -> build/ + the website copy in assets/
 bash compile.sh main-architecture  # -> build/
 ```

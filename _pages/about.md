@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am a Research Intern at **Apple Machine Learning Research (MLR)**, Cambridge, UK, working with [Adam Goliński](http://adamgol.me), and previously interned at **Google Research Australia** in Sydney, working with [Hisham Husain](https://scholar.google.com/citations?user=bwq3crYAAAAJ&hl=en). I am a Ph.D. student at the University of Sydney, advised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a>, and a recipient of the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) (20 selected worldwide, first Australian recipient). My research focuses on Confidence Calibration and Uncertainty Estimation in Deep Learning and Large (Vision) Language Models.
+Hi there! I am a Research Intern at **Apple Machine Learning Research (MLR)**, Cambridge, UK, working with [Adam Goliński](http://adamgol.me), and previously interned at **Google Research Australia** in Sydney, working with [Hisham Husain](https://scholar.google.com/citations?user=bwq3crYAAAAJ&hl=en). I am a Ph.D. student at the University of Sydney, advised by A/Prof. <a href="http://changxu.xyz/">Chang Xu</a>, and a recipient of the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) (20 selected worldwide, first Australian recipient). My research focuses on Uncertainty Quantification and Confidence Calibration for Large (Vision) Language Models.
 
 {% include profile-links.html %}
 
@@ -44,26 +44,26 @@ Hi there! I am a Research Intern at **Apple Machine Learning Research (MLR)**, C
 <span class='anchor' id='educations'></span>
 # 📖 Education
 
-- *2023.10 - Present*, Ph.D in Computer Vision, University of Sydney
-- *2021.10 - 2023.03*, M.Phil in Computer Vision, University of Sydney
+- *2023.10 - Present*, Ph.D in Computer Science, University of Sydney (expected thesis submission: 31 December 2026)
+- *2021.10 - 2023.03*, M.Phil in Computer Science, University of Sydney
 - *2020.02 - 2021.07*, Master of Data Science, University of Sydney
 - *2013.09 - 2017.06*, B.Eng in Communication and Engineering, Huazhong University of Science and Technology
 
 <span class='anchor' id='teaching'></span>
 # 🧑‍🏫 Teaching
-- *2022 S1, 2023 S1, 2024 S1*, 2025 S1, COMP5329 Deep Learning
+- *2022 S1, 2023 S1, 2024 S1, 2025 S1*, COMP5329 Deep Learning
 - *2025 S2*, COMP5318 Machine Learning and Data Mining
 - *2022 S2, 2023 S2*, HTIN5005 Applied Healthcare Data Science
 - *2024 S1, 2024 S2, 2025 S1, 2025 S2*, BUSS6002 Data Science in Business
 - *2024 S2, 2025 S2*, QBUS5010 Intro to Dashboarding and Data Visualisation
-- *2024 S2*, OCMP5329 Deep Learning (Online)
+- *2024 S2, 2025 S2*, OCMP5329 Deep Learning (Online)
 
 <span class='anchor' id='internship'></span>
 # 💼 Internship
 
-- *2026.05 - 2026.10*, Research Intern, Apple Research, Cambridge, UK
-- *2025.11 - 2026.02*, Research Scientist Intern, Google Research Australia
-- *2015.06 - 2015.09*, IOS developer Intern, Ctrip.com
+- *2026.05 - 2026.10*, Research Intern, Apple Machine Learning Research (MLR), Cambridge, UK — multi-turn RL post-training of LLM agents: reward and environment design, and training efficiency
+- *2025.11 - 2026.02*, Research Scientist Intern, Google Research Australia — speculative decoding for efficient LLM inference
+- *2015.06 - 2015.09*, IOS developer Intern, Trip.com
 - *2014.06 - 2014.09*, Frontend developer Intern, Sunallies.com
 
 <span class='anchor' id='honors-awards'></span>
@@ -81,8 +81,8 @@ Hi there! I am a Research Intern at **Apple Machine Learning Research (MLR)**, C
 <span class='anchor' id='academic-service'></span>
 # 💻 Academic Service
 
-- *Conference Reviewer*: ICML, NeuIPS, AAAI, ICLR, CVPR, ICML, IJCAI, ACMMM, AISTATS
-- *Journal Reviewer*: T-MM, TMLR, DAMI, TPAMI
+- *Conference Reviewer*: ICML, NeurIPS, ICLR, CVPR, ICCV, AAAI, IJCAI, ACMMM, AISTATS
+- *Journal Reviewer*: T-MM, TMLR, DAMI, TPAMI, Machine Learning
 - *Organizer*: [Sydney AI Meetup](https://sydneyaimeetup.org)
 
 <!--- 

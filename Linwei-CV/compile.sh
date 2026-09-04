@@ -1,6 +1,6 @@
 #!/bin/bash
 # Compile a CV variant and output to assets/
-#   bash compile.sh                 -> main.tex           -> "CV - Linwei Tao - DATE.pdf"
+#   bash compile.sh                 -> build/"CV - Linwei Tao - DATE.pdf"
 #   bash compile.sh main-agent-rl     -> build/"CV - Linwei Tao (Agent RL) - DATE.pdf"
 #                                        + assets/"CV - Linwei Tao - DATE.pdf" (the website copy)
 #   bash compile.sh main-architecture -> build/"CV - Linwei Tao (Architecture) - DATE.pdf"
@@ -23,12 +23,9 @@ esac
 
 DATE=$(date +"%Y.%m.%d")
 mkdir -p build
-if [ "${TEX}" = "main" ]; then
-  OUTPUT="../assets/${LABEL} - ${DATE}.pdf"
-else
-  # role-specific variants stay out of the published assets/ folder
-  OUTPUT="build/${LABEL} - ${DATE}.pdf"
-fi
+# everything lands in the untracked build/ folder; only the website copy below
+# (the agent-RL variant) is written into the published assets/ folder
+OUTPUT="build/${LABEL} - ${DATE}.pdf"
 cp "${TEX}.pdf" "${OUTPUT}"
 
 # the website hosts the agent-RL variant, under the plain CV name
@@ -42,6 +39,6 @@ fi
 rm -f "${TEX}.aux" "${TEX}.log" "${TEX}.out" "${TEX}.fls" "${TEX}.fdb_latexmk"
 
 echo "Done. ${OUTPUT} updated."
-if [ "${TEX}" = "main" ] || [ "${TEX}" = "main-agent-rl" ]; then
+if [ "${TEX}" = "main-agent-rl" ]; then
   echo "The assets/ copy is tracked: git add assets && git commit -m 'update CV' && git push"
 fi
