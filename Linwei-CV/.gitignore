@@ -1,0 +1,11 @@
+# xelatex build artifacts
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+# variant PDFs are built on demand; only the website copy in ../assets is tracked
+main.pdf
+main-agent-rl.pdf
+main-architecture.pdf
+build/

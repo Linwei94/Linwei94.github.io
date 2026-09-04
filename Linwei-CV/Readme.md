@@ -15,13 +15,21 @@ lines, no generation step.
 Compile with:
 
 ```bash
-bash compile.sh                    # main.tex
-bash compile.sh main-agent-rl
-bash compile.sh main-architecture
+bash compile.sh                    # main.tex          -> assets/
+bash compile.sh main-agent-rl      # -> build/ + the website copy in assets/
+bash compile.sh main-architecture  # -> build/
 ```
 
-Requires `xelatex`. After compiling, update the CV link in
-`_includes/profile-links.html` if the dated filename changed.
+Requires `xelatex`. The website hosts the **agent-RL** variant under the plain
+`assets/CV - Linwei Tao - DATE.pdf` name, which `compile.sh` writes for you;
+update the link in `_includes/profile-links.html` when the date changes. The
+role-labelled PDFs stay in the untracked `build/` folder so they are never
+published.
+
+Page 1 of both variants is Education + Experiences + Selected Publications,
+sized to fill the page: `\vfill` between those three blocks and a `\newpage`
+after Selected Publications. Adding or removing a line there can push Selected
+Publications onto page 2 — recompile and check.
 
 ## Selected lists (4 entries each)
 
