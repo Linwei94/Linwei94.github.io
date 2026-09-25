@@ -22,6 +22,7 @@ Hi there! I am a Research Intern at **Apple Machine Learning Research (MLR)**, C
 {% include profile-links.html %}
 
 # 🔥 News
+- *2026.09*: 🎉🎉 One paper is accepted by **NeurIPS 2026** — Revealing Epistemic Uncertainty in MLLMs via Causal-Invariant Masking.
 - *2026.05*: 🚀🚀 I'm starting my Research Internship at **Apple Research**, Cambridge, UK!
 - *2026.05*: 🎉🎉 One paper is accepted by **ICML 2026** — Sample Margin-Aware Recalibration of Temperature Scaling.
 - *2026.04*: 🎉🎉 I'm honored to receive the [Apple Scholars in AI/ML PhD Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026) from Apple (20 selected worldwide, first Australian recipient), in the area of AI for Ethics and Fairness!
